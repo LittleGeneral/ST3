@@ -18,6 +18,10 @@
 		},
 		{
 			"path": "D:\\Project\\wgyt"
+		},
+		{
+			"path": "D:\\liuchunxi\\moocshop\\shopImooc"
 		}
-	]
+	],
+	"swap_append_load": true
 }

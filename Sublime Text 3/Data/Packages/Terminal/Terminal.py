@@ -96,7 +96,7 @@ class TerminalSelector():
                 'xfce4-session|lxsession|mate-panel|cinnamon-sessio" | grep -v grep'
             wm = [x.replace("\n", '') for x in os.popen(ps)]
             if wm:
-                if wm[0] == 'gnome-session' or wm[0] == 'cinnamon-sessio':
+                if 'gnome-session' in wm[0] or wm[0] == 'cinnamon-sessio':
                     default = 'gnome-terminal'
                 elif wm[0] == 'xfce4-session':
                     default = 'xfce4-terminal'
@@ -117,7 +117,9 @@ class TerminalCommand():
     def get_path(self, paths):
         if paths:
             return paths[0]
-        elif self.window.active_view():
+        # DEV: On ST3, there is always an active view.
+        #   Be sure to check that it's a file with a path (not temporary view)
+        elif self.window.active_view() and self.window.active_view().file_name():
             return self.window.active_view().file_name()
         elif self.window.folders():
             return self.window.folders()[0]
@@ -155,7 +157,8 @@ class OpenTerminalCommand(sublime_plugin.WindowCommand, TerminalCommand):
         if not path:
             return
 
-        parameters = get_setting('parameters', [])
+        if parameters is None:
+            parameters = get_setting('parameters', [])
 
         if os.path.isfile(path):
             path = os.path.dirname(path)

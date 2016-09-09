@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/liuchunxi/moocshop/shopImooc",
 		"/D/Project/wgyt/wgyttp",
 		"/D/XAMPP/htdocs/wgyt/wgyttp",
 		"/D/XAMPP/htdocs/fanwetuan",
@@ -2416,26 +2417,18 @@
 			"buffers":
 			[
 				{
-					"file": "/D/Project/wgyt/wgyt/property/admin.php",
+					"file": "/D/XAMPP/htdocs/code/ajaxCase/admin/list.php",
 					"settings":
 					{
-						"buffer_size": 6256,
-						"line_ending": "Unix"
+						"buffer_size": 6633,
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/Project/wgyt/wgyt/property/teambuy/teambuy_goods.php",
+					"file": "/D/liuchunxi/moocshop/shopImooc/index.php",
 					"settings":
 					{
-						"buffer_size": 7359,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/XAMPP/htdocs/code/ajaxCase/admin/ajaxload.php",
-					"settings":
-					{
-						"buffer_size": 984,
+						"buffer_size": 7769,
 						"line_ending": "Windows"
 					}
 				}
@@ -2448,9 +2441,13 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "pci",
+				"last_filter": "co",
 				"selected_items":
 				[
+					[
+						"co",
+						"Color Picker"
+					],
 					[
 						"pci",
 						"Package Control: Install Package"
@@ -2960,7 +2957,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 528.0
+				"width": 856.0
 			},
 			"console":
 			{
@@ -2986,15 +2983,21 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Project/wgyt/wgyt",
 				"/D/Project/wgyt/wgyt/property",
 				"/D/Project/wgyt/wgyt/property/teambuy",
-				"/D/XAMPP/htdocs/code",
 				"/D/XAMPP/htdocs/code/ajaxCase",
-				"/D/XAMPP/htdocs/code/ajaxCase/admin"
+				"/D/XAMPP/htdocs/code/ajaxCase/admin",
+				"/D/liuchunxi/moocshop/shopImooc"
 			],
 			"file_history":
 			[
+				"/C/Users/Administrator/Desktop/index.html",
+				"/D/liuchunxi/moocshop/shopImooc/configs/configs.php",
+				"/D/Project/wgyt/wgyt/property/teambuy/teambuy_goods.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/index.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/ajaxload.php",
+				"/D/Project/wgyt/wgyt/property/admin.php",
+				"/D/liuchunxi/moocshop/shopImooc/lib/mysql.func.php",
 				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
 				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
 				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/ColorPicker.sublime-settings",
@@ -3048,7 +3051,6 @@
 				"/D/XAMPP/htdocs/fanwetuan/install/copyright.js",
 				"/D/XAMPP/htdocs/fanwetuan/Public/db_config.php",
 				"/D/XAMPP/htdocs/code/tp/App/Admin/View/Estate/index.html",
-				"/D/XAMPP/htdocs/code/ajaxCase/admin/index.php",
 				"/D/XAMPP/htdocs/mishop/App/Admin/Controller/AdminController.class.php",
 				"/D/XAMPP/htdocs/mishop/App/Admin/View/Admin/Index.html",
 				"/D/XAMPP/htdocs/tptest/App/Admin/Controller/EstateController.class.php",
@@ -3063,7 +3065,6 @@
 				"/D/XAMPP/htdocs/tptest/App/Common/Conf/config.php",
 				"/D/Project/wgyt/wgyt/aliPay/alipay.config.php",
 				"/D/Project/wgyt/wgyt/WeiXinPay/lib/WxPay.Config.php",
-				"/D/XAMPP/htdocs/code/ajaxCase/admin/ajaxload.php",
 				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/index.php",
 				"/C/Users/Administrator/AppData/Local/Temp/Microsoft .NET Framework 4 Client Profile Setup_20160906_095539701.html",
 				"/C/Users/Administrator/AppData/Local/Temp/Microsoft .NET Framework 4 Client Profile Setup_20160906_094132134.html",
@@ -3117,12 +3118,7 @@
 				"/D/Project/wgyt/wgyt/WeiXinPay/lib/WxPay.Api.php",
 				"/D/Project/wgyt/wgyt/aliPay/key/rsa_public_key.pem",
 				"/D/Project/wgyt/wgyt/aliPay/key/alipay_public_key.pem",
-				"/D/Project/wgyt/wgyt/aliPay/notify_url.php",
-				"/D/Project/wgyt/wgyt/aliPay/return_url.php",
-				"/D/Project/wgyt/wgyt/aliPay/signatures_url.php",
-				"/D/liuchunxi/支付宝集成过程详解——运行DEMO/支付宝集成过程详解——运行DEMO/支付宝钱包支付接口开发包2.0标准版(201501022) 2/DEMO/服务端demo/PHP-UTF-8/readme.txt",
-				"/D/Project/DEMO/服务端demo/PHP-UTF-8/alipay.config.php",
-				"/D/liuchunxi/支付宝集成过程详解——运行DEMO/支付宝集成过程详解——运行DEMO/支付宝钱包支付接口开发包2.0标准版(201501022) 2/DEMO/服务端demo/PHP-UTF-8/alipay.config.php"
+				"/D/Project/wgyt/wgyt/aliPay/notify_url.php"
 			],
 			"find":
 			{
@@ -3185,6 +3181,7 @@
 				"case_sensitive": true,
 				"find_history":
 				[
+					"aggSite",
 					"form2",
 					"update",
 					"form2",
@@ -3311,8 +3308,7 @@
 					"<script src=\"js/",
 					"页",
 					"records per page",
-					"block",
-					"json"
+					"block"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -3453,39 +3449,39 @@
 					"path": "D:\\XAMPP\\htdocs\\admin"
 				},
 				{
-					"path": "D:\\Project\\wgyt"
+					"path": "D:\\Project\\yjgj"
 				},
 				{
-					"path": "D:\\Project\\yjgj"
+					"path": "D:\\Project\\wgyt"
 				},
 				{
 					"path": "D:\\XAMPP\\htdocs\\code"
 				},
 				{
-					"path": "D:\\Project\\wgyt\\wgyttp"
+					"path": "D:\\liuchunxi\\moocshop\\shopImooc"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 0,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/Project/wgyt/wgyt/property/admin.php",
+							"file": "/D/XAMPP/htdocs/code/ajaxCase/admin/list.php",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 6256,
+								"buffer_size": 6633,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										5234,
-										5234
+										4795,
+										4795
 									]
 								],
 								"settings":
@@ -3505,15 +3501,15 @@
 										{
 											"1":
 											[
-												5234,
-												5235
+												5398,
+												5401
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/double_quote.png",
+												"Packages/BracketHighlighter/icons/tag.png",
 												"brackethighlighter.default"
 											]
 										},
@@ -3521,8 +3517,8 @@
 										{
 											"1":
 											[
-												5225,
-												5226
+												4793,
+												4796
 											]
 										},
 										"unmatched":
@@ -3531,36 +3527,31 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -3571,274 +3562,29 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
-									],
-									"incomplete_sync": null,
-									"is_xml": false,
-									"origin_encoding": "UTF-8",
-									"remote_loading": false,
-									"side_bar_folders_auto_load_folder": 1,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 384.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/Project/wgyt/wgyt/property/teambuy/teambuy_goods.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7359,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4530,
-										4530
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": -1,
-										"modified": true,
-										"selection": true,
-										"status": -1,
-										"syntax": "php"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												4529,
-												4530
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												4477,
-												4478
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
-									],
-									"incomplete_sync": null,
-									"is_xml": false,
-									"origin_encoding": "UTF-8",
-									"remote_loading": false,
-									"side_bar_folders_auto_load_folder": 1,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1584.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/XAMPP/htdocs/code/ajaxCase/admin/ajaxload.php",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 984,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										602,
-										602
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": -1,
-										"modified": true,
-										"selection": true,
-										"status": -1,
-										"syntax": "php"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
 									],
 									"incomplete_sync": null,
 									"is_xml": false,
-									"origin_encoding": "UTF-8",
 									"remote_loading": false,
 									"side_bar_folders_auto_load_folder": 1,
 									"synced": false,
@@ -3847,10 +3593,126 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 1170.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/liuchunxi/moocshop/shopImooc/index.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7769,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": -1,
+										"modified": true,
+										"selection": true,
+										"status": -1,
+										"syntax": "php"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content"
+									],
+									"incomplete_sync": null,
+									"is_xml": false,
+									"remote_loading": false,
+									"side_bar_folders_auto_load_folder": 1,
+									"synced": false,
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 2160.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -3932,7 +3794,7 @@
 				"height": 44.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,1010,316,0,1678",
+			"position": "0,2,3,-32000,-32000,-1,-1,1010,316,0,1678",
 			"project": "",
 			"replace":
 			{
@@ -4146,7 +4008,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 323.0,
+			"side_bar_width": 282.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
