@@ -1,0 +1,11 @@
+[
+    {
+        "caption": "Laravel Artisan: Deploy Project",
+        "command": "laravel5_artisan",
+        "args": {
+            "command": "deploy",
+            "fill_in": true,
+            "fill_in_lable": "Enter the branch name with options"
+        }
+    }
+]

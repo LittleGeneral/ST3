@@ -1,0 +1,20 @@
+{
+	"auto_complete_selector": "source - comment,text,html, meta.tag - punctuation.definition.tag.begin",
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "",
+			"selector": "text.html"
+		}
+	],
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"font_face": "新宋体",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Markdown"
+	],
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": "auto"
+}

@@ -1,0 +1,29 @@
+{
+	"licensed": false,
+	"packages":
+	[
+		"0_package_control_loader",
+		"Alignment",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"JS Snippets",
+		"MarkdownEditing",
+		"Monokai - Spacegray",
+		"Package Control",
+		"php-snippets",
+		"SideBarEnhancements",
+		"Tag",
+		"Tagify",
+		"Theme - Nil",
+		"Trimmer"
+	],
+	"startup_sec": 1.5281907,
+	"syntax":
+	{
+		"HTML": 182,
+		"JavaScript": 15,
+		"PHP": 53
+	},
+	"time": 1463476470
+}
