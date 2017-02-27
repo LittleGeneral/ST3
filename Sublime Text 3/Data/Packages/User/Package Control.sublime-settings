@@ -3,7 +3,7 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"http://localhost/sublimePCIList/channel_v3.json"
+		"https://packagecontrol.io/channel_v3.json"
 	],
 	"in_process_packages":
 	[
@@ -34,9 +34,13 @@
 		"laravel-5-snippets",
 		"laravel-blade",
 		"LaravelGenerator",
+		"Markdown Extended",
+		"Markdown Preview",
 		"MarkdownEditing",
+		"MarkdownTOC",
 		"Material Theme",
 		"Monokai - Spacegray",
+		"OmniMarkupPreviewer",
 		"Package Control",
 		"php-snippets",
 		"Predawn",

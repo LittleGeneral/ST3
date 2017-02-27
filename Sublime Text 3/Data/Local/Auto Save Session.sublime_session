@@ -1,0 +1,4126 @@
+{
+	"folder_history":
+	[
+		"/D/blog/Hexo",
+		"/D/liuchunxi/moocshop/shopImooc",
+		"/D/Project/wgyt/wgyttp",
+		"/D/XAMPP/htdocs/wgyt/wgyttp",
+		"/D/XAMPP/htdocs/fanwetuan",
+		"/D/XAMPP/htdocs/LoveFreshBeen",
+		"/D/用户目录/下载/LoveFreshBeen-master/LoveFreshBeen-master",
+		"/D/XAMPP/htdocs/code/appInterface/admin",
+		"/D/XAMPP/htdocs/tptest",
+		"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3",
+		"/D/XAMPP/htdocs/code",
+		"/D/XAMPP/htdocs/admin/inspinia-cn",
+		"/D/liuchunxi/支付宝集成过程详解——运行DEMO/支付宝集成过程详解——运行DEMO/支付宝钱包支付接口开发包2.0标准版(201501022) 2",
+		"/D/Project/yjgj",
+		"/D/Project/wgyt",
+		"/D/项目/医健管家/yjgj-ly",
+		"/D/项目/医健管家/yjgj",
+		"/D/项目/物管云台/wgyt",
+		"/D/XAMPP/htdocs/yjgj-ly",
+		"/D/XAMPP/htdocs/yjgj",
+		"/D/XAMPP/htdocs/wgyt",
+		"/D/XAMPP/htdocs/test",
+		"/D/XAMPP/htdocs/admin",
+		"/D/XAMPP/htdocs/wgyttp",
+		"/D/var/www/scaleoa",
+		"/D/var/www/scaleoa/wgyt",
+		"/D/var",
+		"/D/XAMPP/htdocs/mishop",
+		"/D/XAMPP/htdocs/tp_teacher",
+		"/D/XAMPP/htdocs/admin/ygyt",
+		"/D/XAMPP/htdocs/admin/ygyt_admin",
+		"/D/XAMPP/htdocs/thinkphp",
+		"/D/XAMPP/htdocs/wgyt2",
+		"/D/var/www/scaleoa/testgit/local.git/wwwroot",
+		"/D/XAMPP/htdocs/admin/inspinia_admin-v2.5-cn",
+		"/D/liuchunxi/moocshop/shopImooc/admin",
+		"/D/liuchunxi/moocshop/模静态板/后台",
+		"/D/XAMPP/htdocs",
+		"/D/XAMPP/htdocs/blog",
+		"/D/svn/tpstudy",
+		"/D/XAMPP/htdocs/mzshop",
+		"/D/XAMPP/htdocs/qjumei",
+		"/D/XAMPP/htdocs/table",
+		"/D/XAMPP/htdocs/myproject/mylaravel",
+		"/D/XAMPP/htdocs/mymzshop",
+		"/D/XAMPP/htdocs/laravel/class/nbshop",
+		"/D/XAMPP/htdocs/mzshop2",
+		"/D/XAMPP/htdocs/smarty",
+		"/D/XAMPP/htdocs/session",
+		"/C/Users/Administrator/Desktop/sku-20140802",
+		"/D/XAMPP/htdocs/antvel",
+		"/D/XAMPP/htdocs/antVel",
+		"/D/XAMPP/htdocs/shop",
+		"/D/XAMPP/htdocs/laravel/class/teacher_laravel3",
+		"/D/XAMPP/htdocs/OOP",
+		"/E/二期备份/shop",
+		"/D/XAMPP/htdocs/laravel/class/nbshop3",
+		"/D/XAMPP/htdocs/laravel/class/nbshop2",
+		"/E/lamp140/二期项目/myProject/project/admin",
+		"/E/lamp140/二期项目/myProject/Data",
+		"/E/xdltest",
+		"/E/lamp140/二期项目/myProject/admin",
+		"/E/二期项目备份/home",
+		"/E/lamp140/二期项目/后台模板",
+		"/E/lamp140/二期项目/后台模板/后台系统模板",
+		"/E/sublimeGitTest",
+		"/E/",
+		"/E/repos",
+		"/E/lamp140/记忆/linux部分",
+		"/E/lamp140/OOP/OOP1",
+		"/E/lamp140/OOP",
+		"/E/lamp140/OOP/OOP1/OOP1",
+		"/D/XAMPP/htdocs/LampClass",
+		"/E/lamp140/一期/第一期课件",
+		"/E/lamp140/一期",
+		"/E/lamp140/一期/第一期课件/2016.02.25html+css开始",
+		"/C/wamp/www/bbs",
+		"/C/xampp/htdocs/templates/sb-admin-2",
+		"/C/xampp/htdocs/php114",
+		"/C/xampp/htdocs/php114/namespace",
+		"/C/xampp/htdocs/php114/MVC",
+		"/C/xampp/htdocs/php114/smarty02/test01",
+		"/C/xampp/htdocs/php114/smarty01",
+		"/C/xampp/htdocs/shop",
+		"/C/xampp/htdocs/php114/bootstrap",
+		"/C/xampp/htdocs/php114/jquery-03",
+		"/C/xampp/htdocs/php114/jquery-02",
+		"/C/xampp/htdocs/php114/jquery-01",
+		"/C/xampp/htdocs/php114/js-09",
+		"/C/xampp/htdocs/php114/js-08",
+		"/C/xampp/htdocs/php114/js-07",
+		"/C/xampp/htdocs/php114/js-06",
+		"/C/xampp/htdocs/php114/js-05",
+		"/C/xampp/htdocs/php114/js-04",
+		"/C/xampp/htdocs/php114/js-03",
+		"/C/xampp/htdocs/php114/js-02",
+		"/C/xampp/htdocs/php114/js-01",
+		"/C/xampp/htdocs/php114/oop-07/demo",
+		"/C/xampp/htdocs/php114/oop-07",
+		"/C/xampp/htdocs/demo",
+		"/C/xampp/htdocs/php114/oop-06-pdo",
+		"/C/xampp/htdocs/php114/oop-05",
+		"/C/xampp/htdocs/php114/oop-04",
+		"/C/xampp/htdocs/php114/oop-03",
+		"/C/xampp/htdocs/php114/oop-01",
+		"/C/xampp/htdocs/php114/oop-02",
+		"/D/wamp/www/oop",
+		"/D/wamp/www/php114",
+		"/H/oop",
+		"/D/wamp/www/object",
+		"/D/wamp/www/object/part02---OOP"
+	],
+	"last_version": 3114,
+	"last_window_id": 183,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 952.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"paren",
+						"parents	.parents()"
+					],
+					[
+						"array",
+						"array	$… = array (…)"
+					],
+					[
+						"src",
+						"src"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"get",
+						"get	$.get()"
+					],
+					[
+						"g",
+						"get	.get()"
+					],
+					[
+						"file_",
+						"file_put_contents"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"blo",
+						"_block"
+					],
+					[
+						"e",
+						"echoh	PHP (HTML): echo htmlentities(...)"
+					],
+					[
+						"comm",
+						"communitys"
+					],
+					[
+						"Comm",
+						"community"
+					],
+					[
+						"pro",
+						"propertyid"
+					],
+					[
+						"utf",
+						"UTF-8"
+					],
+					[
+						"v",
+						"value"
+					],
+					[
+						"con",
+						"connect"
+					],
+					[
+						"mysql_fetc",
+						"mysql_fetch_assoc"
+					],
+					[
+						"heade",
+						"header	header"
+					],
+					[
+						"ehco",
+						"echo	PHP: echo '...'"
+					],
+					[
+						"usre",
+						"userInfo"
+					],
+					[
+						"msg",
+						"msg_id"
+					],
+					[
+						"addre",
+						"AddressController"
+					],
+					[
+						"地址",
+						"地址管理模块路由-----前台"
+					],
+					[
+						"a",
+						"addrInfo"
+					],
+					[
+						"sum",
+						"submit()	Form"
+					],
+					[
+						"su",
+						"submit	.submit()"
+					],
+					[
+						"data",
+						"data	<object>"
+					],
+					[
+						"save",
+						"save()	Canvas 2"
+					],
+					[
+						"br",
+						"brands"
+					],
+					[
+						"p",
+						"product"
+					],
+					[
+						"f",
+						"foreach	foreach …"
+					],
+					[
+						"hea",
+						"headerNavs"
+					],
+					[
+						"ph",
+						"phoneList"
+					],
+					[
+						"Pro",
+						"products"
+					],
+					[
+						"home",
+						"homeCategoryNavs"
+					],
+					[
+						"arraymer",
+						"array_merge"
+					],
+					[
+						"Por",
+						"ProductCategoryController"
+					],
+					[
+						"heanav",
+						"haderNav"
+					],
+					[
+						"focus",
+						"focus	.focus()"
+					],
+					[
+						"focu",
+						"focus	.focus()"
+					],
+					[
+						"n",
+						"newBrand"
+					],
+					[
+						"prod",
+						"products"
+					],
+					[
+						"prodcut",
+						"productDetail"
+					],
+					[
+						"do",
+						"document	Window"
+					],
+					[
+						"cap",
+						"captchaImage"
+					],
+					[
+						"if",
+						"if	if …"
+					],
+					[
+						"product",
+						"productDetailList"
+					],
+					[
+						"admin",
+						"AdminController"
+					],
+					[
+						"插入",
+						"插入一条数据"
+					],
+					[
+						"Route",
+						"Route::any	Basic Route with Closure."
+					],
+					[
+						"Routec",
+						"Route::match	Register a new route with the given verbs."
+					],
+					[
+						"Blade",
+						"Blade::unescaped	Blade {!! echo raw data !!}"
+					],
+					[
+						"Re",
+						"Request"
+					],
+					[
+						"redir",
+						"redirectTo"
+					],
+					[
+						"conf",
+						"Config"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"range",
+						"range"
+					],
+					[
+						"id",
+						"idate"
+					],
+					[
+						"sess",
+						"_SESSION"
+					],
+					[
+						"header",
+						"header"
+					],
+					[
+						"DB",
+						"DB_NAME"
+					],
+					[
+						"foreach",
+						"foreach	PHP: foreach {value} statement"
+					],
+					[
+						"load",
+						"load	.load()"
+					],
+					[
+						"ajax",
+						"ajax	$.ajax()"
+					],
+					[
+						"off",
+						"off	.off()"
+					],
+					[
+						"on",
+						"on	.on()"
+					],
+					[
+						"offset",
+						"offset	.offset()"
+					],
+					[
+						"css",
+						"css	.css() - single"
+					],
+					[
+						"hasc",
+						"hasClass	.hasClass()"
+					],
+					[
+						"last",
+						"last	.last()"
+					],
+					[
+						"height",
+						"innerHeight"
+					],
+					[
+						"posit",
+						"position	css"
+					],
+					[
+						"clone",
+						"clone	.clone()"
+					],
+					[
+						"remove",
+						"remove	.remove()"
+					],
+					[
+						"add",
+						"add	.add()"
+					],
+					[
+						"slice",
+						"slice	.slice()"
+					],
+					[
+						"map",
+						"map	.map()"
+					],
+					[
+						"append",
+						"append	.append()"
+					],
+					[
+						"each",
+						"each	$.each()"
+					],
+					[
+						"is",
+						"is	.is()"
+					],
+					[
+						"has",
+						"has	.has()"
+					],
+					[
+						"filter",
+						"filter	.filter()"
+					],
+					[
+						"ready",
+						"ready	document.ready - $(function(){})"
+					],
+					[
+						"html",
+						"html	.html()"
+					],
+					[
+						"removeprop",
+						"removeprop	.removeProp()"
+					],
+					[
+						"prop",
+						"prop	.prop() - single"
+					],
+					[
+						"htl",
+						"html	.html()"
+					],
+					[
+						"val",
+						"val	.val()"
+					],
+					[
+						"attr",
+						"attr	.attr() - single"
+					],
+					[
+						"blur",
+						"blur	.blur()"
+					],
+					[
+						"open",
+						"open()	Document"
+					],
+					[
+						"cnfrm",
+						"cnfrm	Default"
+					],
+					[
+						"键盘",
+						"键盘按下事件"
+					],
+					[
+						"remvoeele",
+						"removeEventListener()"
+					],
+					[
+						"鼠标",
+						"鼠标抬起"
+					],
+					[
+						"detachEvent",
+						"detachEvent()	IE"
+					],
+					[
+						"onbe",
+						"onbeforeunload	Window"
+					],
+					[
+						"attachEvent",
+						"attachEvent()	IE"
+					],
+					[
+						"addEventListener",
+						"addEventListener()"
+					],
+					[
+						"echo",
+						"echo	PHP: echo '...'"
+					],
+					[
+						"getelem",
+						"getElementsByClassName()"
+					],
+					[
+						"outerh",
+						"outerHTML	Default"
+					],
+					[
+						"getn",
+						"getNamedItem()	Attr"
+					],
+					[
+						"appendchi",
+						"appendChild()"
+					],
+					[
+						"childno",
+						"childNodes	Default"
+					],
+					[
+						"getElementByTagName",
+						"getElementsByTagName()	Document"
+					],
+					[
+						"appendch",
+						"appendChild()"
+					],
+					[
+						"replaceCh",
+						"replaceChild()"
+					],
+					[
+						"childnode",
+						"childNodes[]"
+					],
+					[
+						"removechi",
+						"removeChild()"
+					],
+					[
+						"haschildNod",
+						"hasChildNodes()"
+					],
+					[
+						"childNodes",
+						"childNodes[]"
+					],
+					[
+						"childNode",
+						"childNodes[]"
+					],
+					[
+						"attributes",
+						"attributes[]"
+					],
+					[
+						"scrollto",
+						"scrollTo()	Window"
+					],
+					[
+						"clearinter",
+						"clearInterval()	Window"
+					],
+					[
+						"onloa",
+						"onload	Window"
+					],
+					[
+						"replac",
+						"replace()	String"
+					],
+					[
+						"reload",
+						"reload()	Location"
+					],
+					[
+						"replace",
+						"replace()	Location"
+					],
+					[
+						"innerwi",
+						"innerWidth	Window"
+					],
+					[
+						"setTimeout",
+						"setTimeout()	Window"
+					],
+					[
+						"setIntreval",
+						"setInterval()	Window"
+					],
+					[
+						"setinterval",
+						"setInterval()	Window"
+					],
+					[
+						"resizeto",
+						"resizeTo()	Window"
+					],
+					[
+						"moveby",
+						"moveBy()	Window"
+					],
+					[
+						"moveto",
+						"moveTo()	Window"
+					],
+					[
+						"moveT",
+						"moveTo()	Window"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pci",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"git:check",
+						"Git: Checkout"
+					],
+					[
+						":wq",
+						"Laravel Artisan 5: Queue:Work"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git che",
+						"Git: Checkout"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git chek",
+						"Git: Checkout"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"git check",
+						"Git: Checkout"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git checkout",
+						"Git: Checkout"
+					],
+					[
+						"git addal",
+						"Git: Add All"
+					],
+					[
+						"git addall",
+						"Git: Add All"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"contrller",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git chck",
+						"Git: Checkout"
+					],
+					[
+						"blades",
+						"Snippet: blade-layout-section"
+					],
+					[
+						"git diff",
+						"Git: Diff"
+					],
+					[
+						"artisan makecontr",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"artisan make cotro",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"artisan make:controller",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"gitchec",
+						"Git: Checkout"
+					],
+					[
+						"checkout",
+						"Git: Checkout"
+					],
+					[
+						"blade sec",
+						"Snippet: blade-section_yield"
+					],
+					[
+						"bladeex",
+						"Snippet: Blade-extends"
+					],
+					[
+						"git bran",
+						"Git: New Branch"
+					],
+					[
+						"git ce",
+						"Git: Checkout"
+					],
+					[
+						"git chec",
+						"Git: Checkout"
+					],
+					[
+						"git branc",
+						"Git: Merge Branch"
+					],
+					[
+						"git mergebran",
+						"Git: Merge Branch"
+					],
+					[
+						"blade if",
+						"Snippet: Blade @elseif"
+					],
+					[
+						"git add all",
+						"Git: Add All"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"mk cont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"make m",
+						"Laravel Artisan 5: Make:Middleware"
+					],
+					[
+						"maekcontr",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"miagra",
+						"Laravel Artisan 5: Make:Migration"
+					],
+					[
+						"make contr",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"makeco",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"git re",
+						"Git: Remote"
+					],
+					[
+						"contro",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"git chekc",
+						"Git: Checkout"
+					],
+					[
+						"artisan make:ct",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"laravel artisan makecontro",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"git remote",
+						"Git: Remote"
+					],
+					[
+						"git ",
+						"Git: Version"
+					],
+					[
+						"git shw",
+						"Git: Show"
+					],
+					[
+						"git branch",
+						"Git: Change Branch"
+					],
+					[
+						"git swit",
+						"Git: Switch Repo"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"git ls",
+						"Git: Stash List"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git reset",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"gitdiff",
+						"Git: Diff"
+					],
+					[
+						"laravel artisamak",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"laravel",
+						"Laravel Artisan: List"
+					],
+					[
+						"laravelcon",
+						"Laravel Artisan: Make: Controller"
+					],
+					[
+						"laravelartisancont",
+						"Laravel Artisan: Make: Controller"
+					],
+					[
+						"artisan",
+						"Laravel Artisan Command"
+					],
+					[
+						"laravcont",
+						"Laravel Artisan: Make: Controller"
+					],
+					[
+						"gitpull",
+						"Git: Pull"
+					],
+					[
+						"git ver",
+						"Git: Version"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git show",
+						"Git: Show"
+					],
+					[
+						"git add current",
+						"Git: Add Current File"
+					],
+					[
+						"gitpush",
+						"Git: Push"
+					],
+					[
+						"git addcu",
+						"Git: Add Current File"
+					],
+					[
+						"gitstatus",
+						"Git: Status"
+					],
+					[
+						"gitdif",
+						"Git: Diff"
+					],
+					[
+						"git di",
+						"Git: Diff"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"gitcmt",
+						"Git: Commit"
+					],
+					[
+						"gitadd",
+						"Git: Add All"
+					],
+					[
+						"gitinit",
+						"Git: Init"
+					],
+					[
+						"gitini",
+						"Git: Init"
+					],
+					[
+						"gitpus",
+						"Git: Push"
+					],
+					[
+						"git:h",
+						"Git: Help"
+					],
+					[
+						"bladel",
+						"Snippet: Blade-lang"
+					],
+					[
+						"var",
+						"Snippet: blade-var"
+					],
+					[
+						"bladeife",
+						"Snippet: Blade @ifelse"
+					],
+					[
+						"bladev",
+						"Snippet: blade-var"
+					],
+					[
+						"bladeinc",
+						"Snippet: Blade-include"
+					],
+					[
+						"blade-va",
+						"Snippet: blade-var"
+					],
+					[
+						"blade",
+						"Snippet: Blade-choice"
+					],
+					[
+						"routep",
+						"Snippet: Get the root URL for the application."
+					],
+					[
+						"Route ge",
+						"Snippet: Route a controller to a URI with wildcard routing."
+					],
+					[
+						"if",
+						"Snippet: if …"
+					],
+					[
+						"snippetreturn",
+						"Snippet: return"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"snippet:",
+						"Snippet: FILES['…']"
+					],
+					[
+						"snippet:auth",
+						"Snippet: Run a select statement against the database."
+					],
+					[
+						"snippet",
+						"Snippet: for …"
+					],
+					[
+						"lara",
+						"Snippet: blade-trans"
+					],
+					[
+						"pc",
+						"Package Control: List Packages"
+					],
+					[
+						"phpa",
+						"Snippet: PHP: array map a closure"
+					],
+					[
+						"larav",
+						"Laravel Artisan Command"
+					],
+					[
+						"git:log",
+						"Git: Log"
+					],
+					[
+						"git",
+						"Git: Push"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"pli",
+						"Package Control: List Packages"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:pci",
+						"Package Control: Create Package File"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript (Rails)"
+					],
+					[
+						"sublim",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sublimset",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"pciset",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"pcset",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"cip",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"cpi",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"align",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"instal pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 571.0,
+				"history":
+				[
+					"import  urllib.request,os;pf='Package Control.sublime-package';",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = ‘2deb499853c4371624f5a07e27c334aa’ + ‘bf8c4e67d14fb0525ba4f89698a6d7e1′; pf = ‘Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( ‘http://packagecontrol.io/’ + pf.replace(‘ ‘, ‘%20′)).read(); dh = hashlib.sha256(by).hexdigest(); print(‘Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), ‘wb’ ).write(by)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os; pf ='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler())); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+ pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/XAMPP/htdocs/code/appInterface/admin/del.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/add.php",
+				"/D/XAMPP/htdocs/mishop/App/Admin/Controller/AdminController.class.php",
+				"/D/XAMPP/htdocs/mishop/App/Admin/View/Admin/Index.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/Controller/EstateController.class.php",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Estate/index.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Block/header.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Block/navbar.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Estate/add.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Block/sidebar-left.html",
+				"/D/XAMPP/htdocs/tptest/index.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/index.php",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/example/phpqrcode/phpqrcode.php",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/example/native.php",
+				"/D/XAMPP/htdocs/code/appInterface/list.php",
+				"/D/XAMPP/htdocs/code/appInterface/file.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/edit.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/insert.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/update.php",
+				"/D/XAMPP/htdocs/code/appInterface/db.php",
+				"/D/XAMPP/htdocs/code/appInterface/response.php",
+				"/D/XAMPP/htdocs/code/appInterface/logs/16-09-01.txt",
+				"/D/XAMPP/htdocs/code/appInterface/Response/json.php",
+				"/D/XAMPP/htdocs/code/appInterface/api.php",
+				"/D/Project/wgyt/wgyt/property/notices.php",
+				"/D/Project/wgyt/wgyt/sftp-config.json",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/example/qrcode.php",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/doc/README",
+				"/D/Project/wgyt/wgyt/WeiXinPay/lib/WxPay.Config.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/native_notify.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/native.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/index.php",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/example/orderquery.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/orderquery.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/1.html",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/WxPay.NativePay.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/jsapi.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/WxPay.JsApiPay.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/lib/WxPay.Api.php",
+				"/D/Project/wgyt/wgyt/aliPay/key/rsa_public_key.pem",
+				"/D/Project/wgyt/wgyt/aliPay/alipay.config.php",
+				"/D/Project/wgyt/wgyt/aliPay/key/alipay_public_key.pem",
+				"/D/Project/wgyt/wgyt/aliPay/notify_url.php",
+				"/D/Project/wgyt/wgyt/aliPay/return_url.php",
+				"/D/Project/wgyt/wgyt/aliPay/signatures_url.php",
+				"/D/liuchunxi/支付宝集成过程详解——运行DEMO/支付宝集成过程详解——运行DEMO/支付宝钱包支付接口开发包2.0标准版(201501022) 2/DEMO/服务端demo/PHP-UTF-8/readme.txt",
+				"/D/Project/DEMO/服务端demo/PHP-UTF-8/alipay.config.php",
+				"/D/liuchunxi/支付宝集成过程详解——运行DEMO/支付宝集成过程详解——运行DEMO/支付宝钱包支付接口开发包2.0标准版(201501022) 2/DEMO/服务端demo/PHP-UTF-8/alipay.config.php",
+				"/D/Project/DEMO/服务端demo/PHP-UTF-8/return_url.php",
+				"/D/liuchunxi/支付宝集成过程详解——运行DEMO/支付宝集成过程详解——运行DEMO/支付宝钱包支付接口开发包2.0标准版(201501022) 2/DEMO/服务端demo/PHP-UTF-8/key/rsa_private_key.pem",
+				"/D/liuchunxi/支付宝集成过程详解——运行DEMO/支付宝集成过程详解——运行DEMO/支付宝钱包支付接口开发包2.0标准版(201501022) 2/更新日志.txt",
+				"/D/Project/wgyt/wgyt/WeichatPay/h5pay.php",
+				"/D/XAMPP/htdocs/code/ajax/ajax.html",
+				"/D/XAMPP/htdocs/code/ajax/ajax3.php",
+				"/D/XAMPP/htdocs/code/ajax/ajax2.php",
+				"/D/XAMPP/htdocs/code/ajax/ajax1.php",
+				"/D/XAMPP/htdocs/code/ajax/ajax1.html",
+				"/D/Project/wgyt/wgyt/WeiXinPay/doc/README",
+				"/D/Project/wgyt/wgyt/WeichatPay/h5pay",
+				"/D/XAMPP/htdocs/admin/inspinia-cn/js/plugins/jqgrid/i18n/grid.locale-cn.js",
+				"/D/XAMPP/htdocs/admin/inspinia-cn/js/plugins/jqgrid/jquery.jqGrid.min.js",
+				"/D/liuchunxi/支付宝集成过程详解——运行DEMO/支付宝集成过程详解——运行DEMO/支付宝钱包支付接口开发包2.0标准版(201501022) 2/DEMO/服务端demo/PHP-UTF-8/notify_url.php",
+				"/D/liuchunxi/支付宝集成过程详解——运行DEMO/支付宝集成过程详解——运行DEMO/支付宝钱包支付接口开发包2.0标准版(201501022) 2/DEMO/openssl/生成命令.txt",
+				"/C/Users/Administrator/.ssh/id_rsa.pub",
+				"/D/Project/wgyt/wgyt/ServerAPI.php",
+				"/D/Project/yjgj/yjgj-ly/drugs/Application/Admin/Controller/IndexController.class.php",
+				"/D/Project/yjgj/yjgj-ly/drugs/Application/Admin/Conf/config.php",
+				"/D/XAMPP/htdocs/yjgj/system/libraries/Cart.php",
+				"/D/XAMPP/htdocs/yjgj/sftp-config.json",
+				"/D/XAMPP/htdocs/yjgj-ly/sftp-config.json",
+				"/D/XAMPP/htdocs/wgyttp/Home/Admin/View/Block/navbar.html",
+				"/D/XAMPP/htdocs/wgyt/sftp-config.json",
+				"/D/XAMPP/htdocs/test/test.html",
+				"/D/XAMPP/htdocs/wgyttp/Wgyt/Admin/View/Block/navbar.html",
+				"/D/Program Files/Sublime/Sublime/sftp自动上传/sftp-config.json",
+				"/C/Users/Administrator/Desktop/sftp-config.json",
+				"/D/XAMPP/htdocs/wgyttp/Pro/Admin/Controller/NoticeController.class.php",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/D/var/www/scaleoa/wgyt/property/notices.php",
+				"/D/XAMPP/htdocs/wgyt1/property/mysql_cfg.php",
+				"/D/XAMPP/htdocs/wgyt1/property/normalize.css",
+				"/D/XAMPP/htdocs/wgyt1/api/api-upload-user-img.php",
+				"/D/XAMPP/htdocs/wgyt1/ServerAPI.php",
+				"/D/XAMPP/htdocs/wgyt1/rongcloud.php",
+				"/D/XAMPP/htdocs/wgyttp/Pro/Admin/View/Notice/add.html",
+				"/D/XAMPP/htdocs/wgyttp/Pro/Admin/View/Notice/index.html",
+				"/D/XAMPP/htdocs/admin/ygyt/index.html",
+				"/D/XAMPP/htdocs/admin/ygyt/form.html",
+				"/D/XAMPP/htdocs/wgyttp/Public/js/jquery.dataTables.min.js",
+				"/D/XAMPP/htdocs/admin/ygyt/widgets.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/index.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/login.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/messages.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/submenu.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/submenu2.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/submenu3.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/tasks.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/typography.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/ui.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/widgets.html",
+				"/D/XAMPP/htdocs/admin/ygyt/calendar.html",
+				"/D/XAMPP/htdocs/admin/ygyt/chart.html",
+				"/D/XAMPP/htdocs/admin/ygyt/file-manager.html",
+				"/D/XAMPP/htdocs/admin/ygyt/gallery.html",
+				"/D/XAMPP/htdocs/admin/ygyt/icon.html",
+				"/D/XAMPP/htdocs/admin/ygyt/login.html",
+				"/D/XAMPP/htdocs/admin/ygyt/messages.html",
+				"/D/XAMPP/htdocs/admin/ygyt/submenu.html",
+				"/D/XAMPP/htdocs/admin/ygyt/submenu2.html",
+				"/D/XAMPP/htdocs/admin/ygyt/submenu3.html",
+				"/D/XAMPP/htdocs/admin/ygyt/table.html",
+				"/D/XAMPP/htdocs/admin/ygyt/tasks.html",
+				"/D/XAMPP/htdocs/admin/ygyt/typography.html",
+				"/D/XAMPP/htdocs/admin/ygyt/ui.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/calendar.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/chart.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/file-manager.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/form.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/gallery.html",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/icon.html",
+				"/D/XAMPP/htdocs/wgyttp/Pro/Admin/View/Block/jsCommon.html",
+				"/D/XAMPP/htdocs/wgyttp/Home/Admin/View/Estate/index.html",
+				"/D/XAMPP/htdocs/wgyttp/Home/Admin/View/Block/jsCommon.html",
+				"/D/XAMPP/htdocs/wgyttp/Home/Admin/View/Block/base.html",
+				"/D/XAMPP/htdocs/admin/Bootstrap_Metro_Dashboard-master/table.html",
+				"/D/XAMPP/htdocs/admin/Bootstrap_Metro_Dashboard-master/js/custom.js",
+				"/D/XAMPP/htdocs/admin/Bootstrap_Metro_Dashboard-master/js/jquery.dataTables.min.js",
+				"/D/XAMPP/htdocs/admin/ygyt_admin/js/jquery.dataTables.min.js"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+					"D:\\XAMPP\\htdocs\\admin\\inspinia-cn,D:\\Project\\wgyt\\wgyt\\WeiXinPay",
+					"D:\\XAMPP\\htdocs\\admin\\inspinia-cn",
+					"D:\\XAMPP\\htdocs\\wgyttp",
+					"D:\\XAMPP\\htdocs\\admin\\ygyt",
+					"D:\\XAMPP\\htdocs\\admin\\ygyt,D:\\XAMPP\\htdocs\\admin\\ygyt_admin",
+					"<current file>",
+					"D:\\XAMPP\\htdocs\\wgyttp,D:\\XAMPP\\htdocs\\admin\\ygyt,D:\\XAMPP\\htdocs\\admin\\ygyt_admin",
+					"D:\\XAMPP\\htdocs\\wgyt",
+					"<open files>",
+					"D:\\XAMPP\\htdocs\\wgyt",
+					"D:\\var\\www\\scaleoa\\wgyt\\admin",
+					"D:\\XAMPP\\htdocs\\appInterface",
+					"D:\\XAMPP\\htdocs\\admin\\inspinia_admin-v2.5-cn",
+					"<open files>",
+					"<open folders>",
+					"<current file>,D:\\XAMPP\\htdocs\\mzshop\\resources\\views\\home,*.txt,D:\\XAMPP\\htdocs\\mzshop\\public",
+					"<current file>,D:\\XAMPP\\htdocs\\mzshop\\resources\\views\\home",
+					"<current file>",
+					"E:\\二期备份\\前端模型\\home,<current file>",
+					"E:\\二期备份\\前端模型\\home",
+					"<current file>",
+					"E:\\二期备份\\shop\\product\\admin",
+					"E:\\二期备份\\shop\\product\\admin,E:\\二期备份\\shop\\product\\admin",
+					"E:\\二期备份\\shop\\product\\admin",
+					"E:\\二期备份\\shop\\product\\home",
+					"<current file>",
+					"D:\\XAMPP\\htdocs\\mzshop\\resources\\views",
+					"<open folders>",
+					"<open files>",
+					"<open files>,<open files>",
+					"<open files>",
+					"<open files>,D:\\XAMPP\\htdocs\\mzshop\\public,D:\\XAMPP\\htdocs\\mzshop\\resources\\views",
+					"<open files>,D:\\XAMPP\\htdocs\\mzshop\\public",
+					"<open files>",
+					"E:\\lamp140\\二期项目\\后台模板",
+					"<current file>,E:\\lamp140\\二期项目\\后台模板",
+					"<current file>,E:\\lamp140\\二期项目\\后台模板\\后台系统模板",
+					"<current file>",
+					"",
+					"E:\\lamp140\\手册\\laravel\\laravel\\laravel-china",
+					"E:\\lamp140\\手册\\laravel\\laravel,E:\\lamp140\\手册\\laravel\\laravel\\laravel-china",
+					"E:\\lamp140\\手册\\laravel\\laravel",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"Home",
+					"nav-main-list",
+					"vo",
+					"name",
+					"description",
+					"del",
+					"id=\"hidden\"",
+					"form2",
+					"id=hidden",
+					"hidden",
+					"update",
+					"form1_submit",
+					"open_modal1",
+					"modal",
+					"modal1",
+					"open_modal1",
+					"png",
+					"QRcode",
+					"urlencode",
+					"time3",
+					"time",
+					"config",
+					"var",
+					"out_trade_no",
+					"url2",
+					"$baseUrl",
+					"GetOpenid",
+					"btn",
+					"openid",
+					"王文晓",
+					"url",
+					"addCaption",
+					"没有设置url",
+					"url",
+					"addCaption",
+					"没有设置url",
+					"add_table_list_2",
+					"load_rows1",
+					"modal",
+					"open_modal1",
+					"title",
+					"<input type",
+					"添加公告",
+					"Forms",
+					"Estate",
+					"row-fluid",
+					"Next",
+					"previous",
+					"<script src='__PUBLIC__/js",
+					"<script src='__PUBLIC__js/",
+					"span6",
+					"records",
+					"records per page",
+					"page",
+					"页",
+					"href=\"css/",
+					"<script src='js/",
+					"<script src=\"js/",
+					"页",
+					"records per page",
+					"block",
+					"json",
+					"rows_box1",
+					"estate",
+					"estates",
+					"{:U('Estate/add')}",
+					"{:U('Estate/liyao')}",
+					"{:U('Estate/index')}",
+					"modal",
+					"show",
+					"物业",
+					"\n				",
+					"jsCommon",
+					"<block name=\"footer\" >\n	<p>\n		<span style=\"text-align:left;float:left\">\n			&copy; 2013\n			<a href=\"http://jiji262.github.io/Bootstrap_Metro_Dashboard/\" alt=\"Bootstrap_Metro_Dashboard\">Bootstrap Metro Dashboard</a>\n		</span>\n\n	</p>\n</block>",
+					"content",
+					"main-content",
+					"Home",
+					"perty",
+					"<script src='js/",
+					"__PUBLIC__",
+					"<script src='js/",
+					"登录",
+					"登陆",
+					"<a href=\"{:U('Login/login')}\"><i class=\"icon-lock\"></i><span class=\"hidden-tablet\"> 登录</span></a>",
+					"<i class=\"icon-lock\"></i><span class=\"hidden-tablet\"> 登录</span>",
+					"<li><a href=\"{:U('Login/login')}\"><i class=\"icon-lock\"></i><span class=\"hidden-tablet\"> 登录</span></a></li>",
+					"<li><a class=\"submenu\" href=\"#\"><i class=\"icon-file-alt\"></i><span class=\"hidden-tablet\">回收站</span></a></li>",
+					"name",
+					"estate",
+					"user",
+					"name",
+					"estates",
+					"estate",
+					"id",
+					"propertyid",
+					"user1",
+					"id",
+					"propertyid",
+					"estate",
+					"id",
+					"propertyid",
+					"id",
+					"estate",
+					"this",
+					"estate",
+					"物业编号",
+					"estate",
+					"estates",
+					"\n									",
+					"小区管理",
+					"地址",
+					"名称",
+					"\n								",
+					"登陆页",
+					"记录/页",
+					"记录",
+					"img",
+					"box span12",
+					"Admin",
+					"http://www.scaleoa.com",
+					"http://www.scaleoa.com/",
+					"del",
+					"form1",
+					"update",
+					"Id号",
+					"username",
+					"open_modal3",
+					"操作"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"<script src='js/",
+					"<script src='__PUBLIC__/js/",
+					"href=\"__PUBLIC__/css/",
+					"<script src='__PUBLIC__js/",
+					"<script src=\"__PUBLIC__js/",
+					"<script src='__PUBLIC__js/",
+					"",
+					"邀请码",
+					"小区列表",
+					"小区地址",
+					"小区名称",
+					"登录",
+					"条/页",
+					"条",
+					"index_cron_cache",
+					"仪表盘",
+					"刘春喜",
+					"",
+					"/",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/",
+					"{{URL::asset('Picture/blank.png')}}",
+					"<link href=\"{{URL::asset('Css",
+					"<ul class=\"menu-product-list\">\n                <li class=\"menu-product-item\">\n                  <a href=\"http://store.meizu.com/item/meizu_pro6.html?rc=sd\" target=\"_blank\">\n                    <div class=\"menu-product-figure\">\n                      <img src= \"Picture/init-1x1.jpg\" data-src=\"http://storeimg.meizu.com/product/1466065082@126x126.png\" width=\"100\" height=\"150\"/>\n                    </div>\n                    <p class=\"menu-product-name\">魅族PRO 6</p>\n                    <p class=\"menu-product-price\">\n                      <span class=\"originPrice\"></span>\n                      &yen;\n                      <span>2499</span>\n                    </p>\n                  </a>\n                </li>\n                <li class=\"menu-product-item\">\n                  <a href=\"http://store.meizu.com/item/meizu_pro5.html?rc=sd\" target=\"_blank\">\n                    <div class=\"menu-product-figure\">\n                      <img src= \"Picture/init-1x1.jpg\" data-src=\"http://storeimg.meizu.com/product/1450928403@126x126.png\" width=\"100\" height=\"150\"/>\n                    </div>\n                    <p class=\"menu-product-name\">PRO 5</p>\n                    <p class=\"menu-product-price\">\n                      <span class=\"originPrice\">&yen;2799</span>\n                      &yen;\n                      <span>2499</span>\n                    </p>\n                  </a>\n                </li>\n                <!-- more --> </ul>",
+					".png')}}\"",
+					".jpg')}}\"",
+					"<img src=\"{{URL::asset('Picture",
+					"href=\"####http://",
+					"#####http://store.res.meizu.com\n",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/aio.css')}}\" />\n",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/index.css')}}\" />\n",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/common.css')}}\" />\n",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/msg.css')}}\" />",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/pkg-home.css')}}\" />",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/site-base.css')}}\" />",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('asset/css",
+					"<script src=\"{{URL::asset('asset/js",
+					"js')}}\"></script>",
+					"<script src=\"{{URL::asset('js",
+					"css')}}\">",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('css",
+					"css')}}\" rel=\"stylesheet\" type=\"text/css\" />",
+					"<link href=\"{{URL::asset('./css",
+					"css')}}\" rel=\"stylesheet\" type=\"text/css\" />",
+					"<link href=\"{{URL::asset('",
+					"js')}}\"></script>",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('http://",
+					"<link href=\"{{URL::asset('assets",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('assets",
+					"js')}}\"></script>",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('assets",
+					"')}}\" rel=\"stylesheet\" type=\"text/css\" />",
+					"<link href=\"{{URL::asset('",
+					"\"></script>",
+					"')}}\"></script>",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('",
+					"')}}\"></script>",
+					"<script src=\"{{URL::asset('",
+					"')}}\" rel=\"stylesheet\" />",
+					"<link href=\"{{URL::asset('",
+					"欢迎来到魅族管理后台v1.0",
+					"",
+					" Jason ",
+					"管理员",
+					"<small>欢迎您</small> ",
+					"<small>欢迎您</small>xx管理员 ",
+					"<small>欢迎您</small>\nxx管理员 ",
+					"<span class=\"badge badge-grey\">前台首页</span>",
+					"家",
+					"其他页面",
+					"更多页面",
+					"表格",
+					"Calendar ",
+					"日历",
+					"窗体部件",
+					" 表单 ",
+					"表格",
+					"用户界面元素",
+					"仪表盘  ",
+					"后台管理",
+					"后台管理员",
+					"表单",
+					" Form ",
+					"/",
+					"//",
+					"/",
+					"<meta charset=\"utf-8\">",
+					"",
+					"<meta http-equiv=\"Content-Type\" content=\"text/html\"; charset=\"utf-8\">",
+					"header",
+					"/",
+					"指定",
+					"",
+					"mysql",
+					"input",
+					"href=\"#\"",
+					"<a$1href=\"#\"$3>$4</a>",
+					"<a$1href=\"\"$3>$4</a>",
+					"<a href=\"\"$2>$3</a>",
+					"<a href=\"\">$1</a>",
+					"onfocus=\"\"",
+					"onblur=\"\"",
+					"",
+					"tppabs=\"\"",
+					"href=\"#\"",
+					"",
+					"<form action=\"\" name=\"$2\" target=\"$3\">",
+					"<a href=\"#\">$2</a>",
+					"<a href=\"#\">$1</a>",
+					"a href=\"\"",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 326.0
+			},
+			"output.find_results":
+			{
+				"height": 633.0
+			},
+			"output.git":
+			{
+				"height": 557.0
+			},
+			"output.git-checkout":
+			{
+				"height": 425.0
+			},
+			"output.git-commit":
+			{
+				"height": 292.0
+			},
+			"output.git-init":
+			{
+				"height": 210.0
+			},
+			"output.git-merge":
+			{
+				"height": 591.0
+			},
+			"output.git-pull":
+			{
+				"height": 100.0
+			},
+			"output.git-push":
+			{
+				"height": 271.0
+			},
+			"output.git-remote":
+			{
+				"height": 358.0
+			},
+			"output.sftp":
+			{
+				"height": 279.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"jquery.jqgrid.min.js",
+						"inspinia-cn\\js\\plugins\\jqgrid\\jquery.jqGrid.min.js"
+					],
+					[
+						"grid.locale-cn.js",
+						"inspinia-cn\\js\\plugins\\jqgrid\\i18n\\grid.locale-cn.js"
+					],
+					[
+						".",
+						".env"
+					],
+					[
+						"usercont",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"message",
+						"app\\Http\\Controllers\\MessageController.php"
+					],
+					[
+						"suggest",
+						"app\\Http\\Controllers\\SuggestController.php"
+					],
+					[
+						"address",
+						"app\\Http\\Controllers\\AddressController.php"
+					],
+					[
+						"person",
+						"app\\Http\\Controllers\\PersonalController.php"
+					],
+					[
+						"pro",
+						"app\\Http\\Controllers\\ProductsController.php"
+					],
+					[
+						"productcateg",
+						"app\\Http\\Controllers\\ProductCategoryController.php"
+					],
+					[
+						"addproduct",
+						"resources\\views\\admin\\productBrand\\addProductBrand.blade.php"
+					],
+					[
+						"product",
+						"app\\Http\\Controllers\\ProductsController.php"
+					],
+					[
+						"brand",
+						"app\\Http\\Controllers\\ProductBrandController.php"
+					],
+					[
+						"jump",
+						"app\\Http\\Controllers\\JumpController.php"
+					],
+					[
+						"vcode",
+						"app\\Http\\Controllers\\VcodeController.php"
+					],
+					[
+						"usrecontr",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"home",
+						"app\\Http\\Controllers\\HomeController.php"
+					],
+					[
+						"categor",
+						"app\\Http\\Controllers\\CategoriesController.php"
+					],
+					[
+						"admn",
+						"app\\Http\\Controllers\\AdminController.php"
+					],
+					[
+						"c.php",
+						"c.php"
+					],
+					[
+						"",
+						"a.php"
+					],
+					[
+						"gitstatus",
+						"*git-status*: sublimeGitTest"
+					],
+					[
+						"gitdiff",
+						"*git-diff*: E:\\sublimeGitTest"
+					],
+					[
+						"__get",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-MagicMethod\\__get.php"
+					],
+					[
+						"mysql.php",
+						"mishop\\ThinkPHP\\Library\\Think\\Db\\Driver\\Mysql.class.php"
+					],
+					[
+						"mysql",
+						"OOP\\OOP\\pdo\\mysql操作步骤.php"
+					],
+					[
+						"static",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-static.php"
+					],
+					[
+						"mysql课件",
+						"PHP\\myPHP+MySQL\\mysql\\mysql课件.php"
+					],
+					[
+						"config",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-MysqlModel\\Config.php"
+					],
+					[
+						"cfg",
+						"phpgjx1.7\\config.php"
+					],
+					[
+						"pdo",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-PDO\\PDO\\pdo-query.php"
+					],
+					[
+						"location",
+						"JS\\myJS\\JSCodeSummary\\JS-BOM\\JS-BOM-Location\\JS-BOM-locationSubObject.html"
+					],
+					[
+						"history",
+						"JS\\myJS\\JSCodeSummary\\JS-BOM\\JS-BOM-History\\historyObject.html"
+					],
+					[
+						"closeure",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-closure\\JS-closure-GlobalVar.html"
+					],
+					[
+						"chain",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-varsActionScopeChain.html"
+					],
+					[
+						"arguments",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-ArgumentsObject.html"
+					],
+					[
+						"mishopajax",
+						"mishop\\Public\\Home\\Community\\ajaxGetShare"
+					],
+					[
+						"js-closure",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-closure\\JS-closure-return.html"
+					],
+					[
+						"closure",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-closure\\JS-closure-GlobalVar.html"
+					],
+					[
+						"arr",
+						"JS\\myJS\\JSCodeSummary\\JS-Object\\JS-ArrayObject\\JS-ArrayFunction.html"
+					],
+					[
+						"pdostmt",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-PDO\\PDO-stmt\\pdo-stmt_query.php"
+					],
+					[
+						"argument",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-ArgumentsObject.html"
+					],
+					[
+						"cmd",
+						"LampClass\\mysql\\2016.04.14\\20160414\\doAddType.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 323.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1346.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"g",
+						"group_price"
+					],
+					[
+						"tea",
+						"teambuy-goods"
+					],
+					[
+						"get",
+						"getjson	$.getjson()"
+					],
+					[
+						"ajax",
+						"ajax异步加载"
+					],
+					[
+						"getj",
+						"getjson	$.getjson()"
+					],
+					[
+						"j",
+						"join()	Array"
+					],
+					[
+						"v",
+						"videos"
+					],
+					[
+						"paren",
+						"parents	.parents()"
+					],
+					[
+						"array",
+						"array	$… = array (…)"
+					],
+					[
+						"src",
+						"src"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"file_",
+						"file_put_contents"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"blo",
+						"_block"
+					],
+					[
+						"e",
+						"echoh	PHP (HTML): echo htmlentities(...)"
+					],
+					[
+						"comm",
+						"communitys"
+					],
+					[
+						"Comm",
+						"community"
+					],
+					[
+						"pro",
+						"propertyid"
+					],
+					[
+						"utf",
+						"UTF-8"
+					],
+					[
+						"con",
+						"connect"
+					],
+					[
+						"mysql_fetc",
+						"mysql_fetch_assoc"
+					],
+					[
+						"heade",
+						"header	header"
+					],
+					[
+						"ehco",
+						"echo	PHP: echo '...'"
+					],
+					[
+						"usre",
+						"userInfo"
+					],
+					[
+						"msg",
+						"msg_id"
+					],
+					[
+						"addre",
+						"AddressController"
+					],
+					[
+						"地址",
+						"地址管理模块路由-----前台"
+					],
+					[
+						"a",
+						"addrInfo"
+					],
+					[
+						"sum",
+						"submit()	Form"
+					],
+					[
+						"su",
+						"submit	.submit()"
+					],
+					[
+						"data",
+						"data	<object>"
+					],
+					[
+						"save",
+						"save()	Canvas 2"
+					],
+					[
+						"br",
+						"brands"
+					],
+					[
+						"p",
+						"product"
+					],
+					[
+						"f",
+						"foreach	foreach …"
+					],
+					[
+						"hea",
+						"headerNavs"
+					],
+					[
+						"ph",
+						"phoneList"
+					],
+					[
+						"Pro",
+						"products"
+					],
+					[
+						"home",
+						"homeCategoryNavs"
+					],
+					[
+						"arraymer",
+						"array_merge"
+					],
+					[
+						"Por",
+						"ProductCategoryController"
+					],
+					[
+						"heanav",
+						"haderNav"
+					],
+					[
+						"focus",
+						"focus	.focus()"
+					],
+					[
+						"focu",
+						"focus	.focus()"
+					],
+					[
+						"n",
+						"newBrand"
+					],
+					[
+						"prod",
+						"products"
+					],
+					[
+						"prodcut",
+						"productDetail"
+					],
+					[
+						"do",
+						"document	Window"
+					],
+					[
+						"cap",
+						"captchaImage"
+					],
+					[
+						"if",
+						"if	if …"
+					],
+					[
+						"product",
+						"productDetailList"
+					],
+					[
+						"admin",
+						"AdminController"
+					],
+					[
+						"插入",
+						"插入一条数据"
+					],
+					[
+						"Route",
+						"Route::any	Basic Route with Closure."
+					],
+					[
+						"Routec",
+						"Route::match	Register a new route with the given verbs."
+					],
+					[
+						"Blade",
+						"Blade::unescaped	Blade {!! echo raw data !!}"
+					],
+					[
+						"Re",
+						"Request"
+					],
+					[
+						"redir",
+						"redirectTo"
+					],
+					[
+						"conf",
+						"Config"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"range",
+						"range"
+					],
+					[
+						"id",
+						"idate"
+					],
+					[
+						"sess",
+						"_SESSION"
+					],
+					[
+						"header",
+						"header"
+					],
+					[
+						"DB",
+						"DB_NAME"
+					],
+					[
+						"foreach",
+						"foreach	PHP: foreach {value} statement"
+					],
+					[
+						"load",
+						"load	.load()"
+					],
+					[
+						"off",
+						"off	.off()"
+					],
+					[
+						"on",
+						"on	.on()"
+					],
+					[
+						"offset",
+						"offset	.offset()"
+					],
+					[
+						"css",
+						"css	.css() - single"
+					],
+					[
+						"hasc",
+						"hasClass	.hasClass()"
+					],
+					[
+						"last",
+						"last	.last()"
+					],
+					[
+						"height",
+						"innerHeight"
+					],
+					[
+						"posit",
+						"position	css"
+					],
+					[
+						"clone",
+						"clone	.clone()"
+					],
+					[
+						"remove",
+						"remove	.remove()"
+					],
+					[
+						"add",
+						"add	.add()"
+					],
+					[
+						"slice",
+						"slice	.slice()"
+					],
+					[
+						"map",
+						"map	.map()"
+					],
+					[
+						"append",
+						"append	.append()"
+					],
+					[
+						"each",
+						"each	$.each()"
+					],
+					[
+						"is",
+						"is	.is()"
+					],
+					[
+						"has",
+						"has	.has()"
+					],
+					[
+						"filter",
+						"filter	.filter()"
+					],
+					[
+						"ready",
+						"ready	document.ready - $(function(){})"
+					],
+					[
+						"html",
+						"html	.html()"
+					],
+					[
+						"removeprop",
+						"removeprop	.removeProp()"
+					],
+					[
+						"prop",
+						"prop	.prop() - single"
+					],
+					[
+						"htl",
+						"html	.html()"
+					],
+					[
+						"val",
+						"val	.val()"
+					],
+					[
+						"attr",
+						"attr	.attr() - single"
+					],
+					[
+						"blur",
+						"blur	.blur()"
+					],
+					[
+						"open",
+						"open()	Document"
+					],
+					[
+						"cnfrm",
+						"cnfrm	Default"
+					],
+					[
+						"键盘",
+						"键盘按下事件"
+					],
+					[
+						"remvoeele",
+						"removeEventListener()"
+					],
+					[
+						"鼠标",
+						"鼠标抬起"
+					],
+					[
+						"detachEvent",
+						"detachEvent()	IE"
+					],
+					[
+						"onbe",
+						"onbeforeunload	Window"
+					],
+					[
+						"attachEvent",
+						"attachEvent()	IE"
+					],
+					[
+						"addEventListener",
+						"addEventListener()"
+					],
+					[
+						"echo",
+						"echo	PHP: echo '...'"
+					],
+					[
+						"getelem",
+						"getElementsByClassName()"
+					],
+					[
+						"outerh",
+						"outerHTML	Default"
+					],
+					[
+						"getn",
+						"getNamedItem()	Attr"
+					],
+					[
+						"appendchi",
+						"appendChild()"
+					],
+					[
+						"childno",
+						"childNodes	Default"
+					],
+					[
+						"getElementByTagName",
+						"getElementsByTagName()	Document"
+					],
+					[
+						"appendch",
+						"appendChild()"
+					],
+					[
+						"replaceCh",
+						"replaceChild()"
+					],
+					[
+						"childnode",
+						"childNodes[]"
+					],
+					[
+						"removechi",
+						"removeChild()"
+					],
+					[
+						"haschildNod",
+						"hasChildNodes()"
+					],
+					[
+						"childNodes",
+						"childNodes[]"
+					],
+					[
+						"childNode",
+						"childNodes[]"
+					],
+					[
+						"attributes",
+						"attributes[]"
+					],
+					[
+						"scrollto",
+						"scrollTo()	Window"
+					],
+					[
+						"clearinter",
+						"clearInterval()	Window"
+					],
+					[
+						"onloa",
+						"onload	Window"
+					],
+					[
+						"replac",
+						"replace()	String"
+					],
+					[
+						"reload",
+						"reload()	Location"
+					],
+					[
+						"replace",
+						"replace()	Location"
+					],
+					[
+						"innerwi",
+						"innerWidth	Window"
+					],
+					[
+						"setTimeout",
+						"setTimeout()	Window"
+					],
+					[
+						"setIntreval",
+						"setInterval()	Window"
+					],
+					[
+						"setinterval",
+						"setInterval()	Window"
+					],
+					[
+						"resizeto",
+						"resizeTo()	Window"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "---\ntitle: 独立博客\ncategories: 生活 \ntags: 随笔\n---\n\n------\n### 昨天晚上使用几个小时搭建了这个博客系统,具体操作请看以下网址,感谢他们的帮助,能让我在此书写自己的成长经历.\n\n> * http://www.jianshu.com/p/834d7cc0668d\n> * https://xuanwo.org/2015/03/26/hexo-intor\n> * https://linghucong.js.org/2016/04/15/2016-04-15-hexo-github-pages-blog/\n> * http://theme-next.iissnan.com/\n> * https://hexo.io/zh-cn/docs/\n\n",
+					"file": "/D/blog/Hexo/source/_posts/独立博客.md",
+					"file_size": 463,
+					"file_write_time": 131326645833768628,
+					"settings":
+					{
+						"buffer_size": 344,
+						"line_ending": "Unix",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/D/blog/Hexo/scaffolds/draft.md",
+					"settings":
+					{
+						"buffer_size": 33,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/F/devTools/ST3/Sublime Text 3/Data/Packages/User/OmniMarkupPreviewer.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 114,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "pci",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"co",
+						"Color Picker"
+					],
+					[
+						"git push",
+						"Git: Push"
+					],
+					[
+						"git comm",
+						"Git: Commit"
+					],
+					[
+						"git a",
+						"Git: Add All"
+					],
+					[
+						"git commit",
+						"Git: Commit"
+					],
+					[
+						"git add",
+						"Git: Add All"
+					],
+					[
+						"git com",
+						"Git: Commit"
+					],
+					[
+						"git:check",
+						"Git: Checkout"
+					],
+					[
+						":wq",
+						"Laravel Artisan 5: Queue:Work"
+					],
+					[
+						"git che",
+						"Git: Checkout"
+					],
+					[
+						"git chek",
+						"Git: Checkout"
+					],
+					[
+						"git p",
+						"Git: Push"
+					],
+					[
+						"git check",
+						"Git: Checkout"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"git checkout",
+						"Git: Checkout"
+					],
+					[
+						"git addal",
+						"Git: Add All"
+					],
+					[
+						"git addall",
+						"Git: Add All"
+					],
+					[
+						"git log",
+						"Git: Log All"
+					],
+					[
+						"contrller",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"utf",
+						"ConvertToUTF8: Reload with Encoding"
+					],
+					[
+						"git pus",
+						"Git: Push"
+					],
+					[
+						"git chck",
+						"Git: Checkout"
+					],
+					[
+						"blades",
+						"Snippet: blade-layout-section"
+					],
+					[
+						"git diff",
+						"Git: Diff"
+					],
+					[
+						"artisan makecontr",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"artisan make cotro",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"artisan make:controller",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"gitchec",
+						"Git: Checkout"
+					],
+					[
+						"checkout",
+						"Git: Checkout"
+					],
+					[
+						"blade sec",
+						"Snippet: blade-section_yield"
+					],
+					[
+						"bladeex",
+						"Snippet: Blade-extends"
+					],
+					[
+						"git bran",
+						"Git: New Branch"
+					],
+					[
+						"git ce",
+						"Git: Checkout"
+					],
+					[
+						"git chec",
+						"Git: Checkout"
+					],
+					[
+						"git branc",
+						"Git: Merge Branch"
+					],
+					[
+						"git mergebran",
+						"Git: Merge Branch"
+					],
+					[
+						"blade if",
+						"Snippet: Blade @elseif"
+					],
+					[
+						"git add all",
+						"Git: Add All"
+					],
+					[
+						"git commi",
+						"Git: Commit"
+					],
+					[
+						"mk cont",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"make m",
+						"Laravel Artisan 5: Make:Middleware"
+					],
+					[
+						"maekcontr",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"miagra",
+						"Laravel Artisan 5: Make:Migration"
+					],
+					[
+						"make contr",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"makeco",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"git re",
+						"Git: Remote"
+					],
+					[
+						"contro",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"git chekc",
+						"Git: Checkout"
+					],
+					[
+						"artisan make:ct",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"laravel artisan makecontro",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"git remote",
+						"Git: Remote"
+					],
+					[
+						"git ",
+						"Git: Version"
+					],
+					[
+						"git shw",
+						"Git: Show"
+					],
+					[
+						"git branch",
+						"Git: Change Branch"
+					],
+					[
+						"git swit",
+						"Git: Switch Repo"
+					],
+					[
+						"make",
+						"Set Syntax: Makefile"
+					],
+					[
+						"git ls",
+						"Git: Stash List"
+					],
+					[
+						"git sta",
+						"Git: Status"
+					],
+					[
+						"git reset",
+						"Git: Reset (hard) HEAD"
+					],
+					[
+						"gitdiff",
+						"Git: Diff"
+					],
+					[
+						"laravel artisamak",
+						"Laravel Artisan 5: Make:Controller"
+					],
+					[
+						"laravel",
+						"Laravel Artisan: List"
+					],
+					[
+						"laravelcon",
+						"Laravel Artisan: Make: Controller"
+					],
+					[
+						"laravelartisancont",
+						"Laravel Artisan: Make: Controller"
+					],
+					[
+						"artisan",
+						"Laravel Artisan Command"
+					],
+					[
+						"laravcont",
+						"Laravel Artisan: Make: Controller"
+					],
+					[
+						"gitpull",
+						"Git: Pull"
+					],
+					[
+						"git ver",
+						"Git: Version"
+					],
+					[
+						"git stat",
+						"Git: Status"
+					],
+					[
+						"git show",
+						"Git: Show"
+					],
+					[
+						"git add current",
+						"Git: Add Current File"
+					],
+					[
+						"gitpush",
+						"Git: Push"
+					],
+					[
+						"git addcu",
+						"Git: Add Current File"
+					],
+					[
+						"gitstatus",
+						"Git: Status"
+					],
+					[
+						"gitdif",
+						"Git: Diff"
+					],
+					[
+						"git di",
+						"Git: Diff"
+					],
+					[
+						"git status",
+						"Git: Status"
+					],
+					[
+						"gitcmt",
+						"Git: Commit"
+					],
+					[
+						"gitadd",
+						"Git: Add All"
+					],
+					[
+						"gitinit",
+						"Git: Init"
+					],
+					[
+						"gitini",
+						"Git: Init"
+					],
+					[
+						"gitpus",
+						"Git: Push"
+					],
+					[
+						"git:h",
+						"Git: Help"
+					],
+					[
+						"bladel",
+						"Snippet: Blade-lang"
+					],
+					[
+						"var",
+						"Snippet: blade-var"
+					],
+					[
+						"bladeife",
+						"Snippet: Blade @ifelse"
+					],
+					[
+						"bladev",
+						"Snippet: blade-var"
+					],
+					[
+						"bladeinc",
+						"Snippet: Blade-include"
+					],
+					[
+						"blade-va",
+						"Snippet: blade-var"
+					],
+					[
+						"blade",
+						"Snippet: Blade-choice"
+					],
+					[
+						"routep",
+						"Snippet: Get the root URL for the application."
+					],
+					[
+						"Route ge",
+						"Snippet: Route a controller to a URI with wildcard routing."
+					],
+					[
+						"if",
+						"Snippet: if …"
+					],
+					[
+						"snippetreturn",
+						"Snippet: return"
+					],
+					[
+						"html",
+						"HTMLPrettify"
+					],
+					[
+						"snippet:",
+						"Snippet: FILES['…']"
+					],
+					[
+						"snippet:auth",
+						"Snippet: Run a select statement against the database."
+					],
+					[
+						"snippet",
+						"Snippet: for …"
+					],
+					[
+						"lara",
+						"Snippet: blade-trans"
+					],
+					[
+						"pc",
+						"Package Control: List Packages"
+					],
+					[
+						"phpa",
+						"Snippet: PHP: array map a closure"
+					],
+					[
+						"larav",
+						"Laravel Artisan Command"
+					],
+					[
+						"git:log",
+						"Git: Log"
+					],
+					[
+						"git",
+						"Git: Push"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"css",
+						"Set Syntax: CSS"
+					],
+					[
+						"pli",
+						"Package Control: List Packages"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control:pci",
+						"Package Control: Create Package File"
+					],
+					[
+						"j",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"js",
+						"Set Syntax: JavaScript (Rails)"
+					],
+					[
+						"sublim",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"sublimset",
+						"Preferences: SublimeLinter Settings – User"
+					],
+					[
+						"pciset",
+						"Preferences: SublimeLinter Settings – Default"
+					],
+					[
+						"pcset",
+						"Preferences: Package Control Settings – Default"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"cip",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"cpi",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: install package",
+						"Package Control: Install Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"align",
+						"Preferences: Alignment File Settings – User"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"instal pa",
+						"Package Control: Install Package"
+					],
+					[
+						"install p",
+						"Package Control: Install Package"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 132.0,
+				"history":
+				[
+					"import  urllib.request,os;pf='Package Control.sublime-package';",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os,hashlib; h = ‘2deb499853c4371624f5a07e27c334aa’ + ‘bf8c4e67d14fb0525ba4f89698a6d7e1′; pf = ‘Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( ‘http://packagecontrol.io/’ + pf.replace(‘ ‘, ‘%20′)).read(); dh = hashlib.sha256(by).hexdigest(); print(‘Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), ‘wb’ ).write(by)",
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib.request,os; pf ='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler())); open(os.path.join(ipp, pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+ pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/blog/Hexo",
+				"/D/blog/Hexo/scaffolds",
+				"/D/blog/Hexo/source",
+				"/D/blog/Hexo/source/_posts"
+			],
+			"file_history":
+			[
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/User/MarkdownTOC.sublime-settings",
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/liuchunxi/moocshop/shopImooc/index.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/list.php",
+				"/C/Users/Administrator/Desktop/index.html",
+				"/D/liuchunxi/moocshop/shopImooc/configs/configs.php",
+				"/D/Project/wgyt/wgyt/property/teambuy/teambuy_goods.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/index.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/ajaxload.php",
+				"/D/Project/wgyt/wgyt/property/admin.php",
+				"/D/liuchunxi/moocshop/shopImooc/lib/mysql.func.php",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/ColorPicker.sublime-settings",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/MarkdownEditing/README.md",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/Trimmer/Default (Windows).sublime-keymap",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/SVN.sublime-settings",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/SFTP.sublime-settings",
+				"/D/Project/wgyt/wgyt/property/teambuy/sftp-config.json",
+				"/D/Project/wgyt/wgyt/property/teambuy/notices.php",
+				"/D/Project/wgyt/wgyttp/App/Admin/Controller/EstateController.class.php",
+				"/D/Project/wgyt/wgyttp/App/Admin/View/Estate/index.html",
+				"/D/Project/wgyt/wgyttp/App/Admin/View/Index/index.html",
+				"/D/Project/wgyt/wgyttp/App/Admin/View/Block/sidebar-left.html",
+				"/D/Project/wgyt/wgyttp/App/Admin/View/Estate/inter.html",
+				"/D/Project/wgyt/wgyttp/App/Admin/Controller/LoginController.class.php",
+				"/D/Project/wgyt/wgyttp/App/Admin/View/Estate/add.html",
+				"/D/Project/wgyt/wgyttp/App/Admin/View/Login/login.html",
+				"/D/Project/wgyt/wgyttp/index.php",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/index.html",
+				"/D/Project/wgyt/wgyttp/App/Admin/View/Block/footer.html",
+				"/D/Project/wgyt/wgyttp/App/Admin/View/Block/header.html",
+				"/D/Project/wgyt/wgyttp/App/Admin/View/Block/navbar.html",
+				"/D/Project/wgyt/wgyt/property/sftp-config.json",
+				"/D/用户目录/下载/cJZKeOuBrn4kERxqtaUH3VtXRa8TVwTICgirnJhmVJw.woff2",
+				"/D/Project/wgyt/wgyttp/App/Common/Conf/config.php",
+				"/D/XAMPP/htdocs/code/tp - 副本/index.php",
+				"/D/Project/wgyt/wgyttp/App/Common/Conf/index.html",
+				"/D/Project/wgyt/wgyttp/sftp-config.json",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/config [5].php",
+				"/D/XAMPP/htdocs/wgyt/config.php",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/index [2].html",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/config [4].php",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/config [3].php",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/index [2].php",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/config [2].php",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/IndexController.class.php",
+				"/D/XAMPP/htdocs/wgyt/wgyttp/App/Common/Conf/config.php",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/config.php",
+				"/D/XAMPP/htdocs/wgyt/wgyttp/App/Admin/Conf/config.php",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/SFTP.errors.log",
+				"/D/用户目录/我的文档/NetSarang/Xftp/Temporary/index.php",
+				"/D/XAMPP/htdocs/wgyt/wgyttp/pro.php",
+				"/D/XAMPP/htdocs/wgyt/wgyttp/App/Admin/View/Index/index.html",
+				"/D/XAMPP/htdocs/wgyt/wgyttp/index.php",
+				"/D/XAMPP/htdocs/wgyt/wgyttp/admin.php",
+				"/D/XAMPP/htdocs/wgyt/wgyttp/wgyt.php",
+				"/D/XAMPP/htdocs/tp/tp_template/Admin.php",
+				"/D/XAMPP/htdocs/tp/tp_template/Index.php",
+				"/D/XAMPP/htdocs/fanwetuan/nginx.ini",
+				"/D/XAMPP/htdocs/fanwetuan/install/copyright.js",
+				"/D/XAMPP/htdocs/fanwetuan/Public/db_config.php",
+				"/D/XAMPP/htdocs/code/tp/App/Admin/View/Estate/index.html",
+				"/D/XAMPP/htdocs/mishop/App/Admin/Controller/AdminController.class.php",
+				"/D/XAMPP/htdocs/mishop/App/Admin/View/Admin/Index.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/Controller/EstateController.class.php",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Estate/index.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Community/modify.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Community/index.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Community/add.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Estate/modify.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Estate/add.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Block/sidebar-left.html",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Block/navbar.html",
+				"/D/XAMPP/htdocs/tptest/App/Common/Conf/config.php",
+				"/D/Project/wgyt/wgyt/aliPay/alipay.config.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/lib/WxPay.Config.php",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/index.php",
+				"/C/Users/Administrator/AppData/Local/Temp/Microsoft .NET Framework 4 Client Profile Setup_20160906_095539701.html",
+				"/C/Users/Administrator/AppData/Local/Temp/Microsoft .NET Framework 4 Client Profile Setup_20160906_094132134.html",
+				"/C/Users/Administrator/AppData/Local/Temp/Microsoft .NET Framework 4 Client Profile Setup_20160906_092156727.html",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/del.php",
+				"/D/XAMPP/htdocs/code/appInterface/api.php",
+				"/D/XAMPP/htdocs/code/appInterface/file.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/edit.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/insert.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/update.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/db.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/index.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/ajaxload.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/list.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/js/11.js",
+				"/D/XAMPP/htdocs/code/ajaxCase/response.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/list.php",
+				"/D/XAMPP/htdocs/code/ajax/ajax.html",
+				"/D/XAMPP/htdocs/code/appInterface/admin/add.php",
+				"/D/XAMPP/htdocs/wgyt/wgyttpro/Pro/Admin/Controller/NoticeController.class.php",
+				"/D/XAMPP/htdocs/wgyt/wgyttpro/Pro/Admin/View/Notice/index.html",
+				"/D/XAMPP/htdocs/wgyt/wgyttpro/Pro/Admin/Controller/CommunityController.class.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/edit.php",
+				"/D/Program Files/Sublime/Sublime/Sublime Text 3/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/D/XAMPP/htdocs/code/appInterface/admin/del.php",
+				"/D/XAMPP/htdocs/tptest/App/Admin/View/Block/header.html",
+				"/D/XAMPP/htdocs/tptest/index.php",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/example/phpqrcode/phpqrcode.php",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/example/native.php",
+				"/D/XAMPP/htdocs/code/appInterface/list.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/insert.php",
+				"/D/XAMPP/htdocs/code/appInterface/admin/update.php",
+				"/D/XAMPP/htdocs/code/appInterface/db.php",
+				"/D/XAMPP/htdocs/code/appInterface/response.php",
+				"/D/XAMPP/htdocs/code/appInterface/logs/16-09-01.txt",
+				"/D/XAMPP/htdocs/code/appInterface/Response/json.php",
+				"/D/Project/wgyt/wgyt/property/notices.php",
+				"/D/Project/wgyt/wgyt/sftp-config.json",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/example/qrcode.php",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/doc/README",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/native_notify.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/native.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/index.php",
+				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/example/orderquery.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/orderquery.php",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/1.html",
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/WxPay.NativePay.php"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 99.0,
+				"where_history":
+				[
+					"<current file>,D:\\XAMPP\\htdocs\\wgyt\\wgyttp",
+					"<current file>",
+					"D:\\XAMPP\\htdocs\\admin\\inspinia-cn,D:\\Project\\wgyt\\wgyt\\WeiXinPay",
+					"D:\\XAMPP\\htdocs\\admin\\inspinia-cn",
+					"D:\\XAMPP\\htdocs\\wgyttp",
+					"D:\\XAMPP\\htdocs\\admin\\ygyt",
+					"D:\\XAMPP\\htdocs\\admin\\ygyt,D:\\XAMPP\\htdocs\\admin\\ygyt_admin",
+					"<current file>",
+					"D:\\XAMPP\\htdocs\\wgyttp,D:\\XAMPP\\htdocs\\admin\\ygyt,D:\\XAMPP\\htdocs\\admin\\ygyt_admin",
+					"D:\\XAMPP\\htdocs\\wgyt",
+					"<open files>",
+					"D:\\XAMPP\\htdocs\\wgyt",
+					"D:\\var\\www\\scaleoa\\wgyt\\admin",
+					"D:\\XAMPP\\htdocs\\appInterface",
+					"D:\\XAMPP\\htdocs\\admin\\inspinia_admin-v2.5-cn",
+					"<open files>",
+					"<open folders>",
+					"<current file>,D:\\XAMPP\\htdocs\\mzshop\\resources\\views\\home,*.txt,D:\\XAMPP\\htdocs\\mzshop\\public",
+					"<current file>,D:\\XAMPP\\htdocs\\mzshop\\resources\\views\\home",
+					"<current file>",
+					"E:\\二期备份\\前端模型\\home,<current file>",
+					"E:\\二期备份\\前端模型\\home",
+					"<current file>",
+					"E:\\二期备份\\shop\\product\\admin",
+					"E:\\二期备份\\shop\\product\\admin,E:\\二期备份\\shop\\product\\admin",
+					"E:\\二期备份\\shop\\product\\admin",
+					"E:\\二期备份\\shop\\product\\home",
+					"<current file>",
+					"D:\\XAMPP\\htdocs\\mzshop\\resources\\views",
+					"<open folders>",
+					"<open files>",
+					"<open files>,<open files>",
+					"<open files>",
+					"<open files>,D:\\XAMPP\\htdocs\\mzshop\\public,D:\\XAMPP\\htdocs\\mzshop\\resources\\views",
+					"<open files>,D:\\XAMPP\\htdocs\\mzshop\\public",
+					"<open files>",
+					"E:\\lamp140\\二期项目\\后台模板",
+					"<current file>,E:\\lamp140\\二期项目\\后台模板",
+					"<current file>,E:\\lamp140\\二期项目\\后台模板\\后台系统模板",
+					"<current file>",
+					"",
+					"E:\\lamp140\\手册\\laravel\\laravel\\laravel-china",
+					"E:\\lamp140\\手册\\laravel\\laravel,E:\\lamp140\\手册\\laravel\\laravel\\laravel-china",
+					"E:\\lamp140\\手册\\laravel\\laravel",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"aggSite",
+					"form2",
+					"update",
+					"form2",
+					"success",
+					"teambuy-goods",
+					"teambuy-goods-add-body",
+					"teambuy-goods",
+					"success",
+					"response",
+					"teambuy-goods-edit-body",
+					"modal2",
+					"open_modal2",
+					"modal2",
+					"load_rows1",
+					"open_modal2",
+					"del",
+					"open_modal2",
+					"update",
+					"open_modal2",
+					"edit",
+					"open_modal2",
+					"modal2",
+					"teambuy-goods-edit",
+					"form2",
+					"del",
+					"teambuy-goods-body",
+					"body",
+					"rows_box1",
+					"content",
+					"section",
+					"title",
+					"form1",
+					"addGoods",
+					"form1_submit",
+					"form1",
+					"load_rows1",
+					"modal1",
+					"open_modal1",
+					"modal1",
+					"config",
+					"cfg",
+					"type",
+					"form1",
+					"modal1",
+					"open_modal1",
+					"modal1",
+					"open_modal1",
+					"class=\"list-gr",
+					"class=\"list-group-item\" ",
+					"teambuy",
+					"DataTables_Table_0_filter",
+					"Home",
+					"doDel",
+					"data-source='[\"Alabama\",\"Alaska\",\"Arizona\",\"Arkansas\",\"California\",\"Colorado\",\"Connecticut\",\"Delaware\",\"Florida\",\"Georgia\",\"Hawaii\",\"Idaho\",\"Illinois\",\"Indiana\",\"Iowa\",\"Kansas\",\"Kentucky\",\"Louisiana\",\"Maine\",\"Maryland\",\"Massachusetts\",\"Michigan\",\"Minnesota\",\"Mississippi\",\"Missouri\",\"Montana\",\"Nebraska\",\"Nevada\",\"New Hampshire\",\"New Jersey\",\"New Mexico\",\"New York\",\"North Dakota\",\"North Carolina\",\"Ohio\",\"Oklahoma\",\"Oregon\",\"Pennsylvania\",\"Rhode Island\",\"South Carolina\",\"South Dakota\",\"Tennessee\",\"Texas\",\"Utah\",\"Vermont\",\"Virginia\",\"Washington\",\"West Virginia\",\"Wisconsin\",\"Wyoming\"]'",
+					"data-source",
+					"data",
+					"{",
+					"}",
+					"{",
+					"jsonList",
+					"response.data",
+					"response.data[i]",
+					"</td>",
+					"td",
+					"rows_box1",
+					"tbody",
+					"Home",
+					"nav-main-list",
+					"vo",
+					"name",
+					"description",
+					"del",
+					"id=\"hidden\"",
+					"form2",
+					"id=hidden",
+					"hidden",
+					"update",
+					"form1_submit",
+					"open_modal1",
+					"modal",
+					"modal1",
+					"open_modal1",
+					"png",
+					"QRcode",
+					"urlencode",
+					"time3",
+					"time",
+					"config",
+					"var",
+					"out_trade_no",
+					"url2",
+					"$baseUrl",
+					"GetOpenid",
+					"btn",
+					"openid",
+					"王文晓",
+					"url",
+					"addCaption",
+					"没有设置url",
+					"url",
+					"addCaption",
+					"没有设置url",
+					"add_table_list_2",
+					"load_rows1",
+					"modal",
+					"open_modal1",
+					"title",
+					"<input type",
+					"添加公告",
+					"Forms",
+					"Estate",
+					"row-fluid",
+					"Next",
+					"previous",
+					"<script src='__PUBLIC__/js",
+					"<script src='__PUBLIC__js/",
+					"span6",
+					"records",
+					"records per page",
+					"page",
+					"页",
+					"href=\"css/",
+					"<script src='js/",
+					"<script src=\"js/",
+					"页",
+					"records per page",
+					"block"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"<{",
+					"}>",
+					"<{",
+					"<script src='js/",
+					"<script src='__PUBLIC__/js/",
+					"href=\"__PUBLIC__/css/",
+					"<script src='__PUBLIC__js/",
+					"<script src=\"__PUBLIC__js/",
+					"<script src='__PUBLIC__js/",
+					"",
+					"邀请码",
+					"小区列表",
+					"小区地址",
+					"小区名称",
+					"登录",
+					"条/页",
+					"条",
+					"index_cron_cache",
+					"仪表盘",
+					"刘春喜",
+					"",
+					"/",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/",
+					"{{URL::asset('Picture/blank.png')}}",
+					"<link href=\"{{URL::asset('Css",
+					"<ul class=\"menu-product-list\">\n                <li class=\"menu-product-item\">\n                  <a href=\"http://store.meizu.com/item/meizu_pro6.html?rc=sd\" target=\"_blank\">\n                    <div class=\"menu-product-figure\">\n                      <img src= \"Picture/init-1x1.jpg\" data-src=\"http://storeimg.meizu.com/product/1466065082@126x126.png\" width=\"100\" height=\"150\"/>\n                    </div>\n                    <p class=\"menu-product-name\">魅族PRO 6</p>\n                    <p class=\"menu-product-price\">\n                      <span class=\"originPrice\"></span>\n                      &yen;\n                      <span>2499</span>\n                    </p>\n                  </a>\n                </li>\n                <li class=\"menu-product-item\">\n                  <a href=\"http://store.meizu.com/item/meizu_pro5.html?rc=sd\" target=\"_blank\">\n                    <div class=\"menu-product-figure\">\n                      <img src= \"Picture/init-1x1.jpg\" data-src=\"http://storeimg.meizu.com/product/1450928403@126x126.png\" width=\"100\" height=\"150\"/>\n                    </div>\n                    <p class=\"menu-product-name\">PRO 5</p>\n                    <p class=\"menu-product-price\">\n                      <span class=\"originPrice\">&yen;2799</span>\n                      &yen;\n                      <span>2499</span>\n                    </p>\n                  </a>\n                </li>\n                <!-- more --> </ul>",
+					".png')}}\"",
+					".jpg')}}\"",
+					"<img src=\"{{URL::asset('Picture",
+					"href=\"####http://",
+					"#####http://store.res.meizu.com\n",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/aio.css')}}\" />\n",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/index.css')}}\" />\n",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/common.css')}}\" />\n",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/msg.css')}}\" />",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/pkg-home.css')}}\" />",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css/site-base.css')}}\" />",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('Css",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('asset/css",
+					"<script src=\"{{URL::asset('asset/js",
+					"js')}}\"></script>",
+					"<script src=\"{{URL::asset('js",
+					"css')}}\">",
+					"<link rel=\"stylesheet\" href=\"{{URL::asset('css",
+					"css')}}\" rel=\"stylesheet\" type=\"text/css\" />",
+					"<link href=\"{{URL::asset('./css",
+					"css')}}\" rel=\"stylesheet\" type=\"text/css\" />",
+					"<link href=\"{{URL::asset('",
+					"js')}}\"></script>",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('http://",
+					"<link href=\"{{URL::asset('assets",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('assets",
+					"js')}}\"></script>",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('assets",
+					"')}}\" rel=\"stylesheet\" type=\"text/css\" />",
+					"<link href=\"{{URL::asset('",
+					"\"></script>",
+					"')}}\"></script>",
+					"<script type=\"text/javascript\" src=\"{{URL::asset('",
+					"')}}\"></script>",
+					"<script src=\"{{URL::asset('",
+					"')}}\" rel=\"stylesheet\" />",
+					"<link href=\"{{URL::asset('",
+					"欢迎来到魅族管理后台v1.0",
+					"",
+					" Jason ",
+					"管理员",
+					"<small>欢迎您</small> ",
+					"<small>欢迎您</small>xx管理员 ",
+					"<small>欢迎您</small>\nxx管理员 ",
+					"<span class=\"badge badge-grey\">前台首页</span>",
+					"家",
+					"其他页面",
+					"更多页面",
+					"表格",
+					"Calendar ",
+					"日历",
+					"窗体部件",
+					" 表单 ",
+					"表格",
+					"用户界面元素",
+					"仪表盘  ",
+					"后台管理",
+					"后台管理员",
+					"表单",
+					" Form ",
+					"/",
+					"//",
+					"/",
+					"<meta charset=\"utf-8\">",
+					"",
+					"<meta http-equiv=\"Content-Type\" content=\"text/html\"; charset=\"utf-8\">",
+					"header",
+					"/",
+					"指定",
+					"",
+					"mysql",
+					"input",
+					"href=\"#\"",
+					"<a$1href=\"#\"$3>$4</a>",
+					"<a$1href=\"\"$3>$4</a>",
+					"<a href=\"\"$2>$3</a>",
+					"<a href=\"\">$1</a>",
+					"onfocus=\"\"",
+					"onblur=\"\"",
+					"",
+					"tppabs=\"\"",
+					"href=\"#\"",
+					"",
+					"<form action=\"\" name=\"$2\" target=\"$3\">",
+					"<a href=\"#\">$2</a>",
+					"<a href=\"#\">$1</a>",
+					"a href=\"\"",
+					""
+				],
+				"reverse": false,
+				"show_context": false,
+				"use_buffer2": false,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\blog\\Hexo"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/blog/Hexo/source/_posts/独立博客.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 344,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										344,
+										344
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 1,
+										"count": 11,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"in_converting": true,
+									"incomplete_sync": null,
+									"is_init_dirty_state": false,
+									"is_xml": false,
+									"origin_encoding": "UTF-8-SIG",
+									"remote_loading": false,
+									"side_bar_folders_auto_load_folder": 1,
+									"synced": false,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/blog/Hexo/scaffolds/draft.md",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 33,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										33,
+										33
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": 0,
+										"count": 3,
+										"modified": false,
+										"selection": false,
+										"status": -1,
+										"syntax": "plain text"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"incomplete_sync": null,
+									"is_xml": false,
+									"origin_encoding": "ASCII",
+									"remote_loading": false,
+									"side_bar_folders_auto_load_folder": 1,
+									"synced": false,
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/devTools/ST3/Sublime Text 3/Data/Packages/User/OmniMarkupPreviewer.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 114,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										114,
+										114
+									]
+								],
+								"settings":
+								{
+									"WordCount":
+									{
+										"changes": -1,
+										"modified": true,
+										"selection": true,
+										"status": -1,
+										"syntax": "json"
+									},
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"side_bar_folders_auto_load_folder": 1,
+									"synced": false,
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 24.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 326.0
+			},
+			"output.find_results":
+			{
+				"height": 633.0
+			},
+			"output.git":
+			{
+				"height": 557.0
+			},
+			"output.git-checkout":
+			{
+				"height": 425.0
+			},
+			"output.git-commit":
+			{
+				"height": 292.0
+			},
+			"output.git-init":
+			{
+				"height": 210.0
+			},
+			"output.git-merge":
+			{
+				"height": 591.0
+			},
+			"output.git-pull":
+			{
+				"height": 100.0
+			},
+			"output.git-push":
+			{
+				"height": 271.0
+			},
+			"output.git-remote":
+			{
+				"height": 358.0
+			},
+			"output.sftp":
+			{
+				"height": 44.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,780,316,0,1678",
+			"project": "",
+			"replace":
+			{
+				"height": 44.0
+			},
+			"save_all_on_build": false,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"jquery.jqgrid.min.js",
+						"inspinia-cn\\js\\plugins\\jqgrid\\jquery.jqGrid.min.js"
+					],
+					[
+						"grid.locale-cn.js",
+						"inspinia-cn\\js\\plugins\\jqgrid\\i18n\\grid.locale-cn.js"
+					],
+					[
+						".",
+						".env"
+					],
+					[
+						"usercont",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"message",
+						"app\\Http\\Controllers\\MessageController.php"
+					],
+					[
+						"suggest",
+						"app\\Http\\Controllers\\SuggestController.php"
+					],
+					[
+						"address",
+						"app\\Http\\Controllers\\AddressController.php"
+					],
+					[
+						"person",
+						"app\\Http\\Controllers\\PersonalController.php"
+					],
+					[
+						"pro",
+						"app\\Http\\Controllers\\ProductsController.php"
+					],
+					[
+						"productcateg",
+						"app\\Http\\Controllers\\ProductCategoryController.php"
+					],
+					[
+						"addproduct",
+						"resources\\views\\admin\\productBrand\\addProductBrand.blade.php"
+					],
+					[
+						"product",
+						"app\\Http\\Controllers\\ProductsController.php"
+					],
+					[
+						"brand",
+						"app\\Http\\Controllers\\ProductBrandController.php"
+					],
+					[
+						"jump",
+						"app\\Http\\Controllers\\JumpController.php"
+					],
+					[
+						"vcode",
+						"app\\Http\\Controllers\\VcodeController.php"
+					],
+					[
+						"usrecontr",
+						"app\\Http\\Controllers\\UserController.php"
+					],
+					[
+						"home",
+						"app\\Http\\Controllers\\HomeController.php"
+					],
+					[
+						"categor",
+						"app\\Http\\Controllers\\CategoriesController.php"
+					],
+					[
+						"admn",
+						"app\\Http\\Controllers\\AdminController.php"
+					],
+					[
+						"c.php",
+						"c.php"
+					],
+					[
+						"",
+						"a.php"
+					],
+					[
+						"gitstatus",
+						"*git-status*: sublimeGitTest"
+					],
+					[
+						"gitdiff",
+						"*git-diff*: E:\\sublimeGitTest"
+					],
+					[
+						"__get",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-MagicMethod\\__get.php"
+					],
+					[
+						"mysql.php",
+						"mishop\\ThinkPHP\\Library\\Think\\Db\\Driver\\Mysql.class.php"
+					],
+					[
+						"mysql",
+						"OOP\\OOP\\pdo\\mysql操作步骤.php"
+					],
+					[
+						"static",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-static.php"
+					],
+					[
+						"mysql课件",
+						"PHP\\myPHP+MySQL\\mysql\\mysql课件.php"
+					],
+					[
+						"config",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-MysqlModel\\Config.php"
+					],
+					[
+						"cfg",
+						"phpgjx1.7\\config.php"
+					],
+					[
+						"pdo",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-PDO\\PDO\\pdo-query.php"
+					],
+					[
+						"location",
+						"JS\\myJS\\JSCodeSummary\\JS-BOM\\JS-BOM-Location\\JS-BOM-locationSubObject.html"
+					],
+					[
+						"history",
+						"JS\\myJS\\JSCodeSummary\\JS-BOM\\JS-BOM-History\\historyObject.html"
+					],
+					[
+						"closeure",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-closure\\JS-closure-GlobalVar.html"
+					],
+					[
+						"chain",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-varsActionScopeChain.html"
+					],
+					[
+						"arguments",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-ArgumentsObject.html"
+					],
+					[
+						"mishopajax",
+						"mishop\\Public\\Home\\Community\\ajaxGetShare"
+					],
+					[
+						"js-closure",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-closure\\JS-closure-return.html"
+					],
+					[
+						"closure",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-closure\\JS-closure-GlobalVar.html"
+					],
+					[
+						"arr",
+						"JS\\myJS\\JSCodeSummary\\JS-Object\\JS-ArrayObject\\JS-ArrayFunction.html"
+					],
+					[
+						"pdostmt",
+						"OOP\\myOOP\\OOPCodeSummary\\OOP-PDO\\PDO-stmt\\pdo-stmt_query.php"
+					],
+					[
+						"argument",
+						"JS\\myJS\\JSCodeSummary\\JS-function\\JS-ArgumentsObject.html"
+					],
+					[
+						"cmd",
+						"LampClass\\mysql\\2016.04.14\\20160414\\doAddType.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 176,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

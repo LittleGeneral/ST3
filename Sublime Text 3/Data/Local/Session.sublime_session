@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/D/blog/Hexo",
 		"/D/liuchunxi/moocshop/shopImooc",
 		"/D/Project/wgyt/wgyttp",
 		"/D/XAMPP/htdocs/wgyt/wgyttp",
@@ -2417,19 +2418,11 @@
 			"buffers":
 			[
 				{
-					"file": "/D/XAMPP/htdocs/code/ajaxCase/admin/list.php",
+					"file": "/D/blog/Hexo/source/_posts/独立博客.md",
 					"settings":
 					{
-						"buffer_size": 6633,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/liuchunxi/moocshop/shopImooc/index.php",
-					"settings":
-					{
-						"buffer_size": 7769,
-						"line_ending": "Windows"
+						"buffer_size": 344,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -2441,16 +2434,16 @@
 			"command_palette":
 			{
 				"height": 392.0,
-				"last_filter": "co",
+				"last_filter": "pci",
 				"selected_items":
 				[
 					[
-						"co",
-						"Color Picker"
-					],
-					[
 						"pci",
 						"Package Control: Install Package"
+					],
+					[
+						"co",
+						"Color Picker"
 					],
 					[
 						"git push",
@@ -2957,7 +2950,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 856.0
+				"width": 528.0
 			},
 			"console":
 			{
@@ -2983,14 +2976,19 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Project/wgyt/wgyt/property",
-				"/D/Project/wgyt/wgyt/property/teambuy",
-				"/D/XAMPP/htdocs/code/ajaxCase",
-				"/D/XAMPP/htdocs/code/ajaxCase/admin",
-				"/D/liuchunxi/moocshop/shopImooc"
+				"/D/blog/Hexo",
+				"/D/blog/Hexo/source",
+				"/D/blog/Hexo/source/_posts"
 			],
 			"file_history":
 			[
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/User/MarkdownTOC.sublime-settings",
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/User/Package Control.sublime-settings",
+				"/F/devTools/ST3/Sublime Text 3/Data/Packages/User/Default (Windows).sublime-keymap",
+				"/D/liuchunxi/moocshop/shopImooc/index.php",
+				"/D/XAMPP/htdocs/code/ajaxCase/admin/list.php",
 				"/C/Users/Administrator/Desktop/index.html",
 				"/D/liuchunxi/moocshop/shopImooc/configs/configs.php",
 				"/D/Project/wgyt/wgyt/property/teambuy/teambuy_goods.php",
@@ -3071,7 +3069,6 @@
 				"/C/Users/Administrator/AppData/Local/Temp/Microsoft .NET Framework 4 Client Profile Setup_20160906_092156727.html",
 				"/D/XAMPP/htdocs/code/ajaxCase/admin/del.php",
 				"/D/XAMPP/htdocs/code/appInterface/api.php",
-				"/D/XAMPP/htdocs/code/ajaxCase/admin/list.php",
 				"/D/XAMPP/htdocs/code/appInterface/file.php",
 				"/D/XAMPP/htdocs/code/ajaxCase/admin/edit.php",
 				"/D/XAMPP/htdocs/code/ajaxCase/admin/insert.php",
@@ -3112,13 +3109,7 @@
 				"/D/用户目录/下载/WxpayAPI_php_v3/WxpayAPI_php_v3/example/orderquery.php",
 				"/D/Project/wgyt/wgyt/WeiXinPay/example/orderquery.php",
 				"/D/Project/wgyt/wgyt/WeiXinPay/example/1.html",
-				"/D/Project/wgyt/wgyt/WeiXinPay/example/WxPay.NativePay.php",
-				"/D/Project/wgyt/wgyt/WeiXinPay/example/jsapi.php",
-				"/D/Project/wgyt/wgyt/WeiXinPay/example/WxPay.JsApiPay.php",
-				"/D/Project/wgyt/wgyt/WeiXinPay/lib/WxPay.Api.php",
-				"/D/Project/wgyt/wgyt/aliPay/key/rsa_public_key.pem",
-				"/D/Project/wgyt/wgyt/aliPay/key/alipay_public_key.pem",
-				"/D/Project/wgyt/wgyt/aliPay/notify_url.php"
+				"/D/Project/wgyt/wgyt/WeiXinPay/example/WxPay.NativePay.php"
 			],
 			"find":
 			{
@@ -3443,22 +3434,7 @@
 			"folders":
 			[
 				{
-					"path": "D:\\XAMPP\\htdocs\\mishop"
-				},
-				{
-					"path": "D:\\XAMPP\\htdocs\\admin"
-				},
-				{
-					"path": "D:\\Project\\yjgj"
-				},
-				{
-					"path": "D:\\Project\\wgyt"
-				},
-				{
-					"path": "D:\\XAMPP\\htdocs\\code"
-				},
-				{
-					"path": "D:\\liuchunxi\\moocshop\\shopImooc"
+					"path": "D:\\blog\\Hexo"
 				}
 			],
 			"groups":
@@ -3469,57 +3445,43 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/XAMPP/htdocs/code/ajaxCase/admin/list.php",
-							"semi_transient": false,
+							"file": "/D/blog/Hexo/source/_posts/独立博客.md",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 6633,
+								"buffer_size": 344,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										4795,
-										4795
+										344,
+										344
 									]
 								],
 								"settings":
 								{
 									"WordCount":
 									{
-										"changes": -1,
-										"modified": true,
-										"selection": true,
+										"changes": 0,
+										"count": 11,
+										"modified": false,
+										"selection": false,
 										"status": -1,
-										"syntax": "php"
+										"syntax": "plain text"
 									},
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
 										"close":
 										{
-											"1":
-											[
-												5398,
-												5401
-											]
 										},
 										"icon":
 										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/tag.png",
-												"brackethighlighter.default"
-											]
 										},
 										"open":
 										{
-											"1":
-											[
-												4793,
-												4796
-											]
 										},
 										"unmatched":
 										{
@@ -3527,6 +3489,31 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -3537,182 +3524,39 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
-										"bh_c_define_content"
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
 									],
 									"incomplete_sync": null,
 									"is_xml": false,
 									"remote_loading": false,
 									"side_bar_folders_auto_load_folder": 1,
 									"synced": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
 								},
 								"translation.x": 0.0,
-								"translation.y": 1170.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/liuchunxi/moocshop/shopImooc/index.php",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 7769,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"WordCount":
-									{
-										"changes": -1,
-										"modified": true,
-										"selection": true,
-										"status": -1,
-										"syntax": "php"
-									},
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content"
-									],
-									"incomplete_sync": null,
-									"is_xml": false,
-									"remote_loading": false,
-									"side_bar_folders_auto_load_folder": 1,
-									"synced": false,
-									"syntax": "Packages/PHP/PHP.sublime-syntax",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 2160.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -3794,7 +3638,7 @@
 				"height": 44.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,1010,316,0,1678",
+			"position": "0,2,3,-1,-1,-1,-1,780,316,0,1678",
 			"project": "",
 			"replace":
 			{

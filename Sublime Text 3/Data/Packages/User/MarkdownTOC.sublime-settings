@@ -1,0 +1,5 @@
+{
+  "default_autolink": true,            #目录以链接形式呈现
+  "default_bracket": "round",        #目录以链接形式呈现
+  "default_depth": 0                  #无限目录深度
+}
